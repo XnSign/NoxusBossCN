@@ -1,0 +1,141 @@
+AcceleratingRubble.DisplayName: 碎石
+Antistar.DisplayName: 反恒星
+ArcingStarburst.DisplayName: 星爆
+ArcticBlast.DisplayName: 极寒冲击
+ArcticWindStreakVisual.DisplayName: 寒风
+// BabyNameless.DisplayName: Nameless Deity
+BackgroundStar.DisplayName: 星辰
+BlackHole.DisplayName: 黑洞
+BlackHoleHostile.DisplayName: 恒星
+BlackHolePet.DisplayName: 黑洞
+BloodBlob.DisplayName: 血凝块
+ClockConstellation.DisplayName: 柯罗诺斯之手
+ControlledStar.DisplayName: 星辰
+ConvergingSupernovaEnergy.DisplayName: 超新星等离子体
+CosmicMagicCircle.DisplayName: 宏神之智
+CryostasisMistWall.DisplayName: 绝对零度
+// CuriousHand.DisplayName: Avatar of Emptiness Hand
+DarkField.DisplayName: 黑暗视野
+DarkFireball.DisplayName: 暗之火球
+DarkPortal.DisplayName: 暗之门
+DarkWave.DisplayName: 暗之浪潮
+DeadStar.DisplayName: 垂死之星
+DetachedCyanArm.DisplayName: 苍青之手
+DetachedRedArm.DisplayName: 赤色之手
+DetachedShadowArm.DisplayName: 遗忘之握
+// DimensionTwistedComet.DisplayName: Dimension-twisted Comet
+DismalSeekerLantern.DisplayName: 阴郁之灯
+DisgustingStar.DisplayName: 憎恶异星
+DistortionField.DisplayName: 扭曲力场
+DeadStarIron.DisplayName: 腐朽之铁
+ExplodingStar.DisplayName: 星辰
+FallingGalaxy.DisplayName: 新生之银河
+FogwoodRoot.DisplayName: 雾中木树根
+FrostIllusion.DisplayName: 霜之幻梦
+GodRayVisual.DisplayName: 上帝之光
+GroundStompShock.DisplayName: 撼地冲击
+LanternExplosion.DisplayName: 爆破
+LightDagger.DisplayName: 光之匕首
+LightPortal.DisplayName: 光之门
+LightSlash.DisplayName: 光之斩击
+LightSlashTelegraph.DisplayName: 光之斩击预警线
+LightWave.DisplayName: 光之浪潮
+LilyStar.DisplayName: 纯洁之星
+MoltenBlob.DisplayName: 熔滴
+NamelessDeityAfterimage.DisplayName: 余像
+NoxusNeuron.DisplayName: 神经元
+NoxusExplosion.DisplayName: 熵神爆破
+DarkGas.DisplayName: 熵神雾气
+AvatarSlamTelegraph.DisplayName: 预警线
+EmptinessSprayerGas.DisplayName: 诺克萨斯喷雾雾气
+// EmptinessSprayerHoldout.DisplayName: Emptiness Sprayer
+PaleComet.DisplayName: 苍白彗星
+PortalArmCyan.DisplayName: 怪诞之臂
+PortalArmStrike.DisplayName: 怪诞之臂
+PrimordialStardust.DisplayName: 始源星尘
+RedirectingDarkFlame.DisplayName: 黑暗之火
+RedirectingPaleBlob.DisplayName: 苍白液滴
+RodOfHarmonyExplosion.DisplayName: 和谐传送杖爆炸
+SlowSolarSpark.DisplayName: 耀阳火花
+Starburst.DisplayName: 星爆
+StarKiteProjectile.DisplayName: 星星风筝
+StarPatterenedStarburst.DisplayName: 星爆
+StarPet.DisplayName: 恒星
+StolenPlanetoid.DisplayName: 小行星
+SunFireball.DisplayName: 烈阳火球
+SuperCosmicBeam.DisplayName: 寰宇死亡射线
+SuperLightBeam.DisplayName: 光之死亡射线
+Supernova.DisplayName: 超新星
+SwipingShadowHand.DisplayName: 暗影之手
+SwordConstellation.DisplayName: 猎户座之剑
+SwordConstellationSlashVisual.DisplayName: 非常好视觉设计
+TelegraphedLightLaserbeam.DisplayName: 光之死亡射线
+TelegraphedPortalLaserbeam.DisplayName: 寰宇爆破
+TelegraphedScreenSlice.DisplayName: 维度裂片
+TelegraphedStarLaserbeam.DisplayName: 烈阳爆发
+ThePurifierProj.DisplayName: 净化者
+TerminusProj.DisplayName: 终末石
+VergilScreenSlice.DisplayName: 审判斩切
+VoidBlot.DisplayName: 虚空印记
+WindStreakVisual.DisplayName: 风
+// StarPatternedStarburst.DisplayName: Star Patterned Starburst
+// FallingMeleeWeapon.DisplayName: Ancient Weapon
+// BloodTorrent.DisplayName: Blood Torrent
+// RedirectingRubble.DisplayName: Redirecting Rubble
+// FallenGoodApple.DisplayName: Good Apple
+// ArcticTornado.DisplayName: Arctic Tornado
+// ConvergingSnowEnergy.DisplayName: Snow Energy
+// FreezingWave.DisplayName: Freezing Wave
+// BackgroundBloodBlob.DisplayName: Blood Blob
+// ArcticBlastTornadoPiece.DisplayName: Arctic Blast
+// BloodStake.DisplayName: Blood Stake
+// DirectedArcticBlast.DisplayName: Arctic Blast
+// Snowflake.DisplayName: Snowflake
+// HomingStarBolt.DisplayName: Star Bolt
+// StarshapersWillHoldout.DisplayName: Starshapers Will
+// SolynProtectiveForcefield.DisplayName: Forcefield
+// FrostColumnTelegraph.DisplayName: Frost Column Telegraph
+// FrostColumn.DisplayName: Frost Column
+// StellarRemnant.DisplayName: Stellar Remnant
+// AnnihilationSphere.DisplayName: Annihilation
+// LargeIcicle.DisplayName: Large Icicle
+// SolynProtectiveForcefieldForPlayer.DisplayName: Forcefield
+// EndCreditsGoodApple.DisplayName: End Credits Good Apple
+// LotusOfCreationAppearanceVisual.DisplayName: Lotus Of Creation Appearance Visual
+// DreamcatcherBobber.DisplayName: Dreamcatcher Bobber
+// OtherworldlyThorn.DisplayName: Otherworldly Thorn
+// AntimatterBlast.DisplayName: Antimatter Blast
+// LightLaserFlower.DisplayName: Light Laser Flower
+// LightLaserElectricityArc.DisplayName: Light Laser Electricity Arc
+// PerversePurseHoldout.DisplayName: Perverse Purse
+// TerminusProjectiveBeam.DisplayName: Terminus Projective Beam
+// TerminusStairAppearanceBeam.DisplayName: Terminus Stair Appearance Beam
+// GenesisOmegaDeathray.DisplayName: Genesis Omega Deathray
+// GenesisConvergingEnergy.DisplayName: Genesis Converging Energy
+// PermafrostDoorConvergingEnergy.DisplayName: Permafrost Door Converging Energy
+// PsychedelicFeather.DisplayName: Psychedelic Feather
+// CelestialDreamcatcher.DisplayName: Celestial Dreamcatcher
+// PurifyingMatter.DisplayName: Purifying Matter
+// BinaryLightningArc.DisplayName: Binary Lightning Arc
+// LightLaserCamellia.DisplayName: Light Laser Camellia
+// BigNamelessPunchImpact.DisplayName: Big Nameless Punch Impact
+// CodeStarburst.DisplayName: Code Starburst
+// CodeCrack.DisplayName: Code Crack
+// DirectionalSolynForcefield.DisplayName: Directional Solyn Forcefield
+// MassiveElectricShockwave.DisplayName: Massive Electric Shockwave
+// SmallTeslaArc.DisplayName: Small Tesla Arc
+// TeslaField.DisplayName: Tesla Field
+// SolynImpact.DisplayName: Solyn Impact
+// ExoelectricDisintegrationRay.DisplayName: Exoelectric Disintegration Ray
+// DirectionalSolynForcefield2.DisplayName: Directional Solyn Forcefield
+// SolynSentientStar.DisplayName: Kirby Reference
+// TrappingHolographicForcefield.DisplayName: Trapping Holographic Forcefield
+// UnstableMatter.DisplayName: Unstable Matter
+// SolynTagTeamBeam.DisplayName: The Lesbeam
+// SolynTagTeamChargeUp.DisplayName: Charge-up Energy
+// RailGunCannonDeathray.DisplayName: Railgun Deathray Blast
+// MarsMissile.DisplayName: Fortified Missile
+// SyntheticSeedlingProjectile.DisplayName: Synthetic Seedling Projectile
+// CodeLightningArc.DisplayName: Code Lightning Arc
+// ElectricShockwave.DisplayName: Electric Shockwave
+// FallingObject.DisplayName: Falling Object

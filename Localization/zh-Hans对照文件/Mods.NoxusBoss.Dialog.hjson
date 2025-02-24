@@ -1,0 +1,140 @@
+TerminusHintLine1: 你做的很好。
+TerminusHintLine2: 现在，去找到终末石，你的最终试炼就在眼前。
+// NamelessDeityAscendText: Ascend.
+NamelessDeityEnterGardenText: 你的最终试炼开始了。
+NamelessDeityEndScreenText: 你已经通过了试炼。
+NamelessDeityEndScreenSkipText: 按住ESCAPE键以跳过！
+NamelessDeityPlayerDeathText: 你未能通过试炼。
+NamelessDeityEndScreenMainMenuTip: 你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。
+NamelessDeityEmptinessSprayerTip: 别这样做。
+NamelessDeityStatusText: 你已经通过了试炼。
+NamelessDeityStatusPercentageText: 你已经通过了试炼：
+CattailText: CATTAIL PLACED!
+PurifierMultiplayerUseAlertText: 净化者已由{0}部署，世界将在15秒内重置。
+PurifierEntertainingRantText:
+	'''
+	你好！这个白色背景很正常，你的游戏没有炸，请不要把这一漫长的等待当作bug报上去。
+	坐下来放松一下，如果你有一段时间没喝水的话就喝点水吧。或者专注于其他事情，比如说你的电话。
+	不管怎样，正如你可能已猜到的，这个世界正在从头开始生成。
+	让我们谈谈，好吗？具体说说为什么这个过程需要这么长时间，而且这么奇怪。
+	首先，你知道泰拉瑞亚的世界只是一个巨大的8401x2401物块网格吗？
+	它的大小足以容纳整个世界。
+	从你开始游戏的那一刻起，一直到关闭游戏，这个网格一直存在于内存中。确切来说是几十兆字节的内存。
+	它有着某种形式的“区块”，即拆分成一个个子部分。但这实际上只适用于多人游戏，因为通过网络将整个世界传输到客户端将是非常糟糕的，并且很可能导致游戏崩溃。
+	这就是为什么当服务器即将崩溃时，你会从地图上掉下来，因为你超出了其中一个“区块”的界限，服务器无法向你发送其他区块。
+	回到世界生成上吧，一切东西都要在这个网格中进行。与《我的世界》不同，《泰拉瑞亚》的世界生成并非是一件在你移动的过程中逐步完成的事，它必须一次性完成。
+	此外，许多世界生成的步骤都是同步完成的，或者一次一个，而不是同时进行多个。
+	当然，后者不可能适用于所有情况，因为在很多情况下会发生冲突。但正如你想象的，在可能的情况下并行运行对于性能来说会有一定的提升。
+	有时候某些步骤并不是很有效，在某些情况下，一次安置液体的步骤需要几秒钟。
+	据我所知，沙漠化的步骤可以说是有着令人担忧的循环量。首先是整个沙漠的水平方向。
+	然后是从上到下的垂直方向。然后穿过整个沙漠的所有“集群”，再然后穿过集群内部的所有物块。
+	然而，我将这种效率低下的生成方式归结于mod作者们，而不是原版游戏（我也对此感到内疚）。
+	在过去，我常用的奇怪做法是使用递归（也就是调用自身的函数，这解释起来有点奇怪）来计算硫磺海给定区域内所有的水，然后重复多次。
+	呃啊，这……简直是一团糟。
+	无论如何！我很想继续说下去，但你的世界估计已经被彻底抹去了，我可不想说到一半突然被打断！
+	下次你有世界要重置时，我会再给你放一次这段独白。回头见！
+	'''
+/* LofiMusicCreditText:
+	'''
+	Now Playing:
+	'worldgen.ogg'
+	By Moonburn
+	''' */
+OgsculeDontAnnoyCalDevsText: 这个终末石的效果不是灾厄本体加的，不要拿这个去打扰他们的开发者。
+SolynArriveUnknown: 一个神秘人来到了你的小镇……
+SolynDepartUnknown: 神秘人已离开……
+SolynArriveKnown: Solyn已到达！
+SolynDepartKnown: Solyn已离开！
+CloudSaveMessage: 如果你想用终末石，把云存档关了。它是子世界模组中加载页面定格bug的来源。
+// SolynParadiseReclaimed1: It's... calm.
+// SolynParadiseReclaimed2: And yet, it feels as though something terrible is coming...
+// SolynParadiseReclaimed3: Something... FROM BELOW!!
+// SolynParadiseReclaimedSaveText: I'll save you!
+// SolynRunAway: Run away!
+// SolynStayBelowMe: Stay below me!
+// SolynAvatarReaction1: Wait... what's going on??
+// SolynAvatarReaction2: OH GOD! WHAT THE HELL IS THAT?!!
+// OpenSolynQuestbook: Open Solyn's Questbook
+// TelescopeDaytimeText: It's too bright out right now!
+// TelescopeRepairFailText: Insufficient materials for repair!
+// AvatarPlayerDeathText: You have perished.
+// PermafrostKeepMapIconText: Mysterious Keep
+// SummonMarsButtonText: Summon (Mars)
+
+SolynDraedonInteraction: {
+	// Draedon1: Hmm! My esteemed test subject once again initiates contact, this time alongside their partner.
+	// Draedon2: Solyn, I presume?
+	// Solyn1: Wait... how do you know my name??
+	// Draedon3: The collection of all knowledge is my ultimate pursuit.
+	// Draedon4: It would be a mark against me as a scientist to not study your friend after our last encounter.
+	// Solyn2: What do you mean by-
+	// Draedon5: Speak no more.
+	// Draedon6: I know of and possess precisely what you two seek.
+	// Draedon7: However, it would be improper of me to simply hand it over.
+	// Draedon8: I wish to examine you in combat, together. A rare case study, you could say.
+	// Draedon9: You will fight against and defeat my strongest machine.
+	// Draedon10: And in exchange, I will grant you a special seedling for your floral superweapon.
+	// Draedon11: Do you accept this offer?
+	// Solyn3: It's been a long time since I've done combat.
+	// Solyn4: But... I accept. What about you?
+}
+
+// SolynDraedonInteractionSuccessive: Are you ready?
+// PlayerDraedonAcceptance: I accept.
+// PlayerDraedonAcceptanceSuccessive: I am.
+// DraedonAcceptanceResponse: Excellent! They will arrive shortly.
+// DraedonAcceptanceResponseSuccessive: Excellent.
+// SolynGetToMe: Get to me!
+// SolynBreakForcefield: Break the forcefield with the star!
+// SolynBreakForcefield2: One more hit!
+// SolynUseMouseButtons: Hold LMB and RMB!
+
+DraedonEndingMonologue: {
+	// Draedon1: Marvelous.
+	// Draedon2: The data you two have provided me is immaculate.
+	// Solyn1: That was... surprisingly fun!
+	// Solyn2: But... where's the seedling?
+	// Draedon3: Worry not. I have already fulfilled my end of the bargain.
+	// Draedon4: That seed you now possess was my machine's sole energy source.
+	// Draedon5: I am eager to see how you use it.
+	// Draedon6: Good luck, and farewell.
+}
+
+// DarkRiftVaniquishText: The dark rift, vanquished in an instant.
+/* SolynHandwrittenNoteFarewellText:
+	'''
+	Hey!
+
+	I noticed how much effort you spent trying to keep my little bookshelf happy and full!
+	To be completely honest with you, I'm surprised you managed to find some of these books. The Bible of Slime? How silly!
+
+	Anyway... if you're reading this, that means I'm no longer with you. Maybe something with the Genesis went horribly wrong. Whatever the case, I'm sure you already know the answer.
+
+	It's not much, and I'd have loved to show you in person, but... I want you to have my secret cinnamon roll recipe in my absence.
+	Think of me whenever you use it, and our time together.
+
+
+	-Solyn
+	''' */
+// SolynBackstory1: As you've probably guessed, I'm... not from this world.
+// SolynBackstory2: My home is a place of lush overgrowth, beneath the gentle light of twin suns.
+// SolynBackstory3: My kind are peaceful, knowledgeable, and reverent.
+// SolynBackstory4: We have long held on to our traditions, singing songs to the melody of the stars.
+// SolynBackstory5: Whistling to the breeze of nature.
+// SolynBackstory6: As for me... seeking the elusive has always been an obsession of mine.
+/* SolynBackstory7:
+	'''
+	The aching desire to know has burned ever since I was a young girl.
+	The desire to be close with our maker.
+	''' */
+// SolynBackstory8: In this regard, almost none have had the opportunities I've enjoyed.
+// SolynBackstory9: And yet... I can now only wonder if my old friends miss me as I miss them.
+// SolynTestBuildup1: I had the fortune of being born near in time to a special event in which all of our system's planets align.
+// SolynTestBuildup2: It is believed that when this happens, our creator briefly gazes upon our world.
+// SolynTestBuildup3: In that moment, I did something never done before.
+// SolynTestBuildup4: Using my assortment of occult artifacts and ancient magics, I beckoned an acknowledgement, desiring ultimate knowledge and understanding.
+// SolynTestBuildup5: It was clear that the opportunity would never again present itself to me.
+// SolynTestBuildup6: The next thing I knew... I was in the presence of an impossible being, surrounded by a natural beauty unlike any I had witnessed before.
+// SolynTestBuildup7: I sensed that in the pursuit of what I sought, my resolve would be tested.
+// SolynTestBuildup8: And then...
+// SolynTestBuildup9: I failed.

@@ -1,0 +1,19 @@
+GraphicalUniverseImager: {
+	EternalGardenAurora: 永恒花园极光
+	// NamelessDeityStars: Starry Heaven
+	NamelessDeityKaleidoscope: 无名神万花筒
+	AvatarP1Background: 深红远方
+	AvatarP2Background: 动荡广阔
+	// BloodWhirlpool: Blood Whirlpool
+	// CryonicStatic: Frozen Stasis
+	RiftEclipse: 裂隙日蚀
+	// TerminusStairway: Tranquil Empyrean
+	NoMusic: 无环境音
+	AvatarMusic: 静谧
+}
+
+SolynBookExchange: {
+	// BookObtainmentPercentage: "{0}% of books found!"
+	// CreditText: Found by [c/FF84D8:{0}]
+	// RarityText: "Rarity: "
+}

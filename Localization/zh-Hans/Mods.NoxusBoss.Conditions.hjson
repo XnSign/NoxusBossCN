@@ -1,0 +1,5 @@
+AfterSolynAppearance: 在索林出现之后
+BooksObtainable: 在包含WoTG化身更新的世界中生成
+PreAvatarUpdateWorld: 在不包含WoTG化身更新的世界中生成
+IsGFB: 这是一个全物品种子掉落率
+ObtainedBefore: 在至少获得过一次之后

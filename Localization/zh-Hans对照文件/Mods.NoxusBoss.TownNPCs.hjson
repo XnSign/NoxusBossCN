@@ -1,0 +1,208 @@
+MerchantChat: {
+	RiftEclipse_Morning1: 剑克纸！赶紧买一把。
+	RiftEclipse_Morning2: 你想要苹果？你想要胡萝卜？你想要菠萝？我们只有火把。
+	RiftEclipse_Morning3: 多么寒冷的清晨啊。幸运的是，赚钱这事可从来没有不合时宜这一说法！
+	RiftEclipse_Afternoon1: 自从天空出现了隙间后，每个人都对交易不那么感兴趣了。但是至少，我很高兴你貌似并不在乎它！
+	RiftEclipse_Afternoon2: 最近挺冷的。也许，我能让你对那些价格过高的衣服起一点兴趣？
+	RiftEclipse_Afternoon3: 看看我的雪块；他们全是雪。
+	RiftEclipse_Evening1: 朋友，快要天黑了。快做决定吧，不然就晚了。
+	RiftEclipse_Evening2: 你根本不知道雪块在国外能卖多少钱。
+	RiftEclipse_Evening3: 不，我不会给你提供世界末日的专属折扣。
+	RiftEclipse_Nightfall1: 当然，一切都是那么的黑暗与可怕，但你考虑过买一些火把吗？
+	RiftEclipse_Nightfall2: 即使是世界末日也无法阻止资本主义，我们来做点交易吧。
+	RiftEclipse_Nightfall3: 寒冷世界里的热门交易！嘿，开玩笑的。
+	RiftEclipse_Midnight1: 黑暗降临，价格上涨！
+	RiftEclipse_Midnight2: 永恒的夜晚，渐冷的空气，迫近的厄运？听起来是买一套鼓组的最佳时机。相信我，以后会有用的，大概吧。
+	RiftEclipse_Midnight3: 不知道月亮是不是奶酪做的……什么？对了，买点东西！
+	RiftEclipse_NightsEnd1: 我听说有一个秘密宝藏……哦，没什么。
+	RiftEclipse_NightsEnd2: 你是说天使雕像？对不起，我不是收废品的。
+}
+
+NurseChat: {
+	RiftEclipse_Above66PercentHP1: 抱歉，我可没法提供心理健康服务。
+	RiftEclipse_Above66PercentHP2: 让我看看哪里受伤了。
+	RiftEclipse_Above66PercentHP3: 你确定这很重要吗？
+	RiftEclipse_Above66PercentHP4: 转过头去咳嗽。
+	RiftEclipse_Below66PercentHP1: 这需要缝针！
+	RiftEclipse_Below66PercentHP2: 你到底在干些什么？以至一次又一次地受到这些奇怪的伤害？
+	RiftEclipse_Below66PercentHP3: 还没那么糟糕。
+	RiftEclipse_Below33PercentHP1: 呃……你的脸怎么了？
+	RiftEclipse_Below33PercentHP2: 我的天啊！我很好，但不是"那种"好。
+	RiftEclipse_Below33PercentHP3: 你的胳膊掉在那边了。我给你拿来……
+	RiftEclipse_Below33PercentHP4: 你确定成为冒险家是你想要坚持的职业选择吗？
+	RiftEclipse_BurnDebuff: 看起来你现在挺"火"的。
+	RiftEclipse_Demolitionist: 我希望{0}会小心些。他变得比以前更莽撞了。
+}
+
+DemolitionistChat: {
+	RiftEclipse1: 今天是个找死的好日子！
+	RiftEclipse2: 你同意我把所有东西"砰"的一声扔出去吗？反正我们都……呃，不行？好吧
+	RiftEclipse3: 天上的那个奇怪的东西……你觉得我们能把它炸掉吗？
+	RiftEclipse4: 让我看看这样会怎……（轰！）……哦，对不起，你还要那条腿吗？
+	RiftEclipse5: 把冰块炸开真是爽到爆了！幸运的话还会有弹片飞溅！
+	RiftEclipse6: 此处禁止吸烟！！
+	RiftEclipse7: 喂，你能签了这份不恶意捣乱的承诺书吗？
+	RiftEclipse8: 我能引起你对一堆燃烧碎石的兴趣吗？
+	RiftEclipse9: 莽撞？不，我比以前任何时候都充满活力！
+	RiftEclipse10: 干燥、不详的空气对我的炸药而言太棒了！
+	RiftEclipse11: 如果这个世界可以炸得一干二净，何须再净化它？
+	RiftEclipse12: 为什么大伙最近都这么关心我？我玩的很开心！
+}
+
+DyeTraderChat: {
+	RiftEclipse1: 天哪！最近的一切似乎都变得阴沉多了……
+	RiftEclipse2: 尽管你的着装令人印象深刻,但你必须考虑把它染色以带来特殊的触感！
+	RiftEclipse3: 丰富多彩才是生活的情趣所在！当它们不存在时，我就感觉像是失去了一些特别的东西。
+	RiftEclipse4: 我觉得减饱和也有它自己的用处……
+	RiftEclipse5: 我的植物群无法忍受这种情况！
+	RiftEclipse6: 正是这种时刻让我们对这个世界的美丽心怀感激。
+	GoodDyeEasterEgg: 嘿……这种染料还不错。事实上很不错。
+}
+
+AnglerChat: {
+	RiftEclipse1: 哦，真是一场暴行！难道没有人来救一下这条鱼吗？！
+	RiftEclipse2: 你知道的，如果世界末日没有到来，这将是钓鱼之旅的最佳时机。
+	RiftEclipse3: 如果我们都要死的话，我宁愿死的时候手里拿着一条鱼。
+	RiftEclipse4: 你还是会帮我抓东西的，对吧？
+	# I assume that 0 means the NPC name is picked in the code from examples above, so ive added it here too.
+	RiftEclipse_Merchant: 我试着从{0}那要一些降价鱼饵，但显然，即使是世界毁灭也不会有折扣！
+	RiftEclipse1_QuestAvailable: 如果你觉得湖面结冰就能让你从钩上逃脱，那你真是大错特错了！给我去整些鱼过来！
+	RiftEclipse2_QuestAvailable: 你觉得你想去哪？世界末日可是获取一些限时变异怪鱼的黄金时期！
+}
+
+ZoologistChat: {
+	RiftEclipse1: 大自然现在可不太好……
+	RiftEclipse2: 动物们都去哪了？我很想念它们。
+	RiftEclipse3: 这可真是太糟了！它让我毛骨悚然！
+	RiftEclipse4: 我想知道我哥哥会怎么看待这一切……
+	RiftEclipse5: 我的耳朵太太太太冷了！
+	RiftEclipseNight1: 你知道，我有点喜欢，甚至是怀念月亮了……
+	RiftEclipseNight2: 一切似乎都是如此的……平静。
+	RiftEclipseNight3: 你想说点什么来打发时间吗？
+	RiftEclipseNight4: 我的直觉完全失控了，这一切都太诡异了！
+}
+
+DryadChat: {
+	RiftEclipse1: 这种呼啸的风并不自然。
+	RiftEclipse2: 似乎万物都开始枯萎了。
+	RiftEclipse3: 泰拉瑞亚比以往任何时刻都需要你！
+	RiftEclipse4: 我必须承认，其他人对这一切的理解给我留下了深刻的印象。
+	RiftEclipse5: 时间的沙漏在流逝，我们还要被它们冲洗多久？
+	RiftEclipse6: 直至现在，你的胜利是值得赞扬的。为了我们，我希望你能以某种方式拯救这个世界。
+	RiftEclipse7: 大自然正在颤抖……
+	RiftEclipse8: 你必须成功。
+	RiftEclipse9: 我感觉……比平时虚弱了许多。
+	RiftEclipse10: 说现在事态严重有些轻描淡写了……
+	RiftEclipse11: 你能感受到浓厚的空气吗？
+	RiftEclipse12: 祝你好运，{0}。
+	RiftEclipse_Corruption1: 我曾认为腐化将是我们最大的威胁，却忽视了周边的环境。
+	RiftEclipse_Crimson1: 我曾认为猩红将是我们最大的威胁，却忽视了周边的环境。
+}
+
+PainterChat: {
+	RiftEclipse1: 这些天以来，原材料都很难搞到。
+	RiftEclipse2: 空中的隙间……这让我大受鼓舞！它所创造的日落可能是黯淡的，但那微弱闪光的色彩将是世上最为璀璨的！
+	RiftEclipse3: 深色与亮色有着同等的价值。
+	RiftEclipse4: 我必须承认，这些天的情况有点阴沉。我更有理由去绘画了。
+	RiftEclipse5: 不不不……全都是不同的灰色！看看周围！
+	RiftEclipse6: 你有没有考虑过在白色上加入青色和粉红色？
+	RiftEclipseSnow: 这暴风雪是我见过的最盛大的表演之一！
+	ArtisticCatharsis: 你现在应该停止把蓝绿和酸橙统称为绿色！
+}
+
+ArmsDealerChat: {
+	RiftEclipse1: 自从太阳被遮住后，我从军火买卖中赚了不少钱！
+	RiftEclipse2: 对着天上那玩意开枪恐怕没什么用，我试过的。
+	RiftEclipse3: 你听说过太空海豚机枪吗？我听说它比迷你鲨还要酷。
+	RiftEclipse4: 结局？死亡？无关紧要，这是我的家常便饭。
+	RiftEclipse5: 这种静谧真是糟透了，能杀的东西变得更少了。
+	RiftEclipse6: 他们都说我很"疯狂"，但很快我的弹药储备就能带来收获！
+	RiftEclipseNight: 许多东西都发生了改变，但将恶魔眼当做打靶练习对象可不在其中！
+	RiftEclipseSnow: 祝你在这种情况下仍能得到好运！
+	RiftEclipse_Demolitionist: 别告诉他说我说过这句话，但是{0}最近的样子吓到我了。他对任何事物都冷漠得可怕。
+	GFB: 嘿，伙计，你知道我们携带武器的权利是上帝赐予的吗？
+}
+
+TavernkeepChat: {
+	RiftEclipse1: 你想在这艰难的时刻喝点啤酒吗？
+	RiftEclipse2: 我们是怎么走到这一步的？
+	RiftEclipse3: 始终坚韧不屈，再加上一点点运气，就可以走得很远……
+	RiftEclipse4: 天上的那个传送门和我见过的完全不同。
+	RiftEclipse5: 你知道的，我有些希望天上的传送门能和撒旦军团有所联系了。无穷无尽的哥布林从天而降可是个奇异的景象。
+	RiftEclipse6: 这可比成天擦桌子强多了。
+	RiftEclipse7: 那里真的很安静。有点太过安静了……
+	RiftEclipse_Dryad: 今天早些时候，我很惊讶于看到{0}过来喝了一杯酒，而不是在聊天。
+}
+
+StylistChat: {
+	RiftEclipse1: 我不喜欢无边的黑暗，我害怕有些什么东西会爬出来。
+	RiftEclipse2: 天哪！几乎每个人看起来都更冷漠了，以及……比以前更邋遢了。
+	RiftEclipse3: 感觉……咱得整点一劳永逸的。
+	RiftEclipse4: 头顶上再稍微剪掉一点?这一点都不好玩……
+	RiftEclipse5: 哦，天哪！最近的闲话可变少了许多……
+	RiftEclipse6: 最近的奇怪天气让我不得不呆在屋子里！我可不想我的努力都付诸东流。
+	RiftEclipse7: 背部和侧面都很短，是吗？
+	// Solyn: That sweet girl, Solyn! I tried to improve her hair once, but that wild, star-shaped lick atop her head refused to budge!
+}
+
+GoblinTinkererChat: {
+	// RiftEclipse1: Eldritch portal blocking the sun? I've got just the gadget for that!
+	// RiftEclipse2: So much for 'solar power'...
+	// RiftEclipse3: Cosmic horrors tipping the universal scales of power, eh? Gimme a couple minutes.
+	// RiftEclipse4: No sun? No problem! We'll make our own!
+}
+
+PartyGirlChat: {
+	RiftEclipse1: 黑暗真是太棒了！这就像是举办一个夜间派对，但永不结束！！
+	RiftEclipse2: 我去过一次瑞典，他们经常开派对，你怎么和他们不一样？
+	RiftEclipse3: 太棒了不是吗？我可以在一天中的任何时刻用我的烟花了！
+	RiftEclipse4: 你开派对吗？有时开？好吧，那我们谈谈……
+	RiftEclipse5: 你有看见过我的派对大炮吗？如果把它搞回来，我们将会举办有史以来最棒的派对！
+	RiftEclipse6: 天哪天哪天哪天哪！！我终于很快就能举办我的第一个永无休止的黑暗派对了！你会喜欢它的！！
+	RiftEclipseSnow1: 哦！！我！喜！欢！雪！这非常适合举办一个雪球派对！
+}
+
+PirateChat: {
+	RiftEclipse1: 啊……你觉得现在跳船是不是有点太晚了？
+	RiftEclipse2: 这让我想起了深水处的一段危险故事！天空就像戴维·琼斯的储物柜一样黑！
+	RiftEclipse3: 在这诡异的大风中，我便是海盗们的典范，外面的天气如此奇怪，有一条又滑又危险的小路！呀！
+	RiftEclipse4: 将我的船夺走的风暴就像这场狂风。啊，无情的暴风雨的确让我们的船任由波塞冬的愤怒摆布！
+	RiftEclipse5: 啊，天空中的那个东西就像是海怪的漩涡。打起精神来，因为它很可能会向我们释放出深海的巨兽！
+	RiftEclipse6: 数十亿只蓝色的起泡藤壶！这场暴风雪简直比薄荷冰淇淋还要冷！
+	RiftEclipse_BeforeFrozenSea1: 愿海神宽恕那些在外海的勇敢灵魂，呀！
+	RiftEclipse_AfterFrozenSea1: 炸开这片冻住的海域！水手们想要的是海浪，而不是这些冰冷的玩意，呀哈！
+	RiftEclipse_AfterFrozenSea2: 诅咒降临到了这片海域上！我将永远变成一个旱鸭子了……
+}
+
+WizardChat: {
+	RiftEclipse1: 又有人用了我的那本"以永恒黑暗终结世界"的魔法书吗？
+	RiftEclipse2: 我深入地观察了下我的水晶球，事实证明，真正的宝藏是那些忠于战斗而被忽视的朋友们！
+	RiftEclipse3: 有人曾告诉我友谊是魔法。太荒谬了。用友谊无法把人变成青蛙。
+	RiftEclipse4: 我？你没注意到吗？我活得很久了，可以看到更多有趣的时刻。
+	RiftEclipse5: 你听说过魔力药水摄入过量吗？这是个残酷的事实……
+	RiftEclipse6: 我能看到你的想法……你无视我所说的一切，只关心在我这里售卖的某些物品！
+	RiftEclipse7: 我曾经试过复活一座天使雕像。它啥都不干。
+	RiftEclipsePremonition: 我已经深入观察了下我的水晶球，似乎有什么黑暗之物要到来了。
+	SolynAcknowledgement: 你知道，Solyn看起来十分老练！也许她甚至知道一些我不知道的东西……
+}
+
+TravelingMerchantChat.RiftEclipse1: 我卖的商品来自可能根本就不存在的地方！
+
+SkeletonMerchantChat: {
+	RiftEclipse1: 我听说已经下了一整天的冰雹了，我是不会在这样寒冷的天气里出去的！
+	RiftEclipse2: 世界末日？什么让人摸不着头脑的话！…等等，没事了，我脑袋还在呢。
+	RiftEclipse3: 没有我家史莱姆油治不好的病！相信我，很管用，看看我这生龙活虎的身板就知道了！
+	RiftEclipse4: 等等……我已经死了，为什么我还要在乎钱？
+	RiftEclipse5: 离蜘蛛远点。它们会吸掉你的内脏，留下一副空壳。这点一定要信我。
+	RiftEclipse6: 你看起来很强，我承认，我惊讶于你甚至停下来跟我打招呼。
+	RiftEclipseOnSurface: 什么？人们的性命处于危险之中？着实令人担忧，还好我没有活着。
+	RiftEclipseUnderground: 什么？地表居民们的性命处于危险之中？着实令人担忧，还好我既没有活着，也不在地表。
+}
+
+ElderSlimeChat.RiftEclipse: 宇宙颤动，我们很快就会死于无情的寒冷之手，咕噜。
+
+PermafrostChat.Saved:
+	'''
+	我必须衷心感谢你将我从那寒冷的牢笼中解救出来。
+	这个给你，作为我的感激之情。我相信你一定能找到它的用处。
+	'''

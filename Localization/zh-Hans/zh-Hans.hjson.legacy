@@ -1,0 +1,55 @@
+Mods: {
+	StructureHelper: {
+		Items: {
+			ChestWand: {
+				DisplayName: 箱子法杖
+				Tooltip:
+					'''
+					右键点击打开箱子规则菜单
+					左键点击箱子以设置当前规则
+					右键点击带有规则的箱子以复制规则
+					'''
+			}
+
+			MultistructureWand: {
+				DisplayName: 多结构法杖
+				Tooltip: 在世界中选择2个点，然后右键点击以添加结构。完成后在物品栏中右键点击以保存。
+			}
+
+			StructureWand: {
+				DisplayName: 结构法杖
+				Tooltip: 在世界中选择2个点，然后右键点击以保存结构
+			}
+
+			TestWand: {
+				DisplayName: 结构放置法杖
+				Tooltip: 左键点击放置选定的结构，右键点击打开结构选择器
+			}
+
+			NullBlockItem: {
+				DisplayName: 空方块
+				Tooltip:
+					'''
+					在结构中使用这些来指示生成器
+					应该保持世界中已存在的内容不变
+					忽略墙体，请使用空墙 :3
+					'''
+			}
+
+			NullTileAndWallPlacer: {
+				DisplayName: 空方块和墙体放置器
+				Tooltip: 同时放置空方块和空墙！
+			}
+
+			NullWallItem: {
+				DisplayName: 空墙
+				Tooltip:
+					'''
+					在结构中使用这些来指示生成器
+					应该保持世界中已存在的墙体不变
+					仅用于墙体，其他物品请使用空方块
+					'''
+			}
+		}
+	}
+}

@@ -1,0 +1,44 @@
+CuriousHandBuff: {
+	DisplayName: 好奇之手
+	Description: 它抚摸着你世界的形状和纹理，对这些亘古未有的体验充满好奇
+}
+
+BlackHolePetBuff: {
+	DisplayName: 黑洞
+	Description: 无尽的余弦从神圣的五行诗后提取
+}
+
+StarPetBuff: {
+	DisplayName: 恒星
+	Description: 光明将指明你前进的方向
+}
+
+BabyNamelessBuff: {
+	DisplayName: 无名神明
+	Description: 一切尽在掌控之中
+}
+
+NilkDebuff: {
+	DisplayName: 虚无
+	Description: ...
+}
+
+StarstrikinglySatiated: {
+	DisplayName: 星光满溢
+	Description: 所有属性获得星辰般的提升并增加生命恢复速度
+}
+
+Glaciated: {
+	DisplayName: 冰封
+	Description: 你无法移动
+}
+
+InvincibilityBuff: {
+	DisplayName: 花之力量
+	Description: 莲花的祝福使你免疫伤害
+}
+
+AntimatterAnnihilation: {
+	DisplayName: 反物质湮灭
+	Description: 你已不复存在
+}

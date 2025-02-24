@@ -1,0 +1,73 @@
+# A '^' character corresponds to a long pause.
+Bunny: {
+	Name: 兔子星座
+	SolynDialogue:
+		'''
+		兔子！多么可爱的小东西。
+		我真想知道是谁决定让它们存在于星辰之中！
+		'''
+}
+
+EmptyPatchOfSpaceTfAreYouEvenDoing: {
+	Name: 太空
+	SolynDialogue1: 太空真的是一个迷人的东西，不是吗？
+	SolynDialogue2: 它的无边无际，真的！而且星星都如此耀眼！
+	SolynDialogue3: 它让人不禁思考所有尚未解开的谜题，以及我们的渺小。
+	SolynDialogue4: 但是嘿，也许那里真的有一些答案！^某种解释所有这些自然之美的力量……
+	SolynDialogue5: 啊，不管怎样，你^真的很喜欢那片特定的太空，是吧？哈哈！
+	SolynDialogue6: 你玩得开心吗？
+	SolynDialogue7: 嘿，^呃，^也许我们应该看看还有什么？那片特定的区域很好，但它真的只是一小片……
+	SolynDialogue8: ……
+	SolynDialogue9: 好吧……^我想我也不着急。
+	SolynDialogue10: ……
+	SolynDialogue11: ……
+	SolynDialogue12: 我……^^真的觉得我们应该看看其他东西……
+	SolynDialogue13: ……
+}
+
+GalacticCenter: {
+	Name: 银河中心
+	SolynDialogue:
+		'''
+		银河中心？
+		^嗯……说实话，我也不太确定那里是什么情况。^但我听说那里相当暴力。
+		^^我相信近距离观察一定会是壮观的景象！
+		'''
+}
+
+MeteorShower: {
+	Name: 流星雨
+	SolynDialogue:
+		'''
+		哦，哇！！流星雨！
+		快，许个愿！
+		'''
+}
+
+Moon: {
+	Name: 月亮
+	SolynDialogue: 月亮？？傻瓜，你已经知道那是什么了！
+	SolynDialogueBloodMoon:
+		'''
+		有人说血月的光芒足以让人发疯……^
+		我不知道，你现在感觉疯狂吗？我知道我没有！
+		'''
+}
+
+Rift: {
+	Name: ???
+	SolynDialogue:
+		'''
+		哦！那是我最喜欢的之一！那是天体末日裂缝！它真的很有趣-^
+		等等……^^嗯？？
+		'''
+}
+
+ScreamingNebula: {
+	Name: 尖啸星云
+	SolynDialogue:
+		'''
+		那是尖啸星云！这么近看它真是太美了……^^
+		你知道吗……我不确定为什么他们这么叫它。在太空中，根本不存在尖啸，或者任何声音！
+		'''
+}

@@ -1,0 +1,140 @@
+TerminusHintLine1: 你做的很好。
+TerminusHintLine2: 现在，去找到终末石，你的最终试炼就在眼前。
+NamelessDeityAscendText: 升华。
+NamelessDeityEnterGardenText: 你的最终试炼开始了。
+NamelessDeityEndScreenText: 你已经通过了试炼。
+NamelessDeityEndScreenSkipText: 按住ESCAPE键以跳过！
+NamelessDeityPlayerDeathText: 你未能通过试炼。
+NamelessDeityEndScreenMainMenuTip: 你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。你已经通过了试炼。
+NamelessDeityEmptinessSprayerTip: 别这样做。
+NamelessDeityStatusText: 你已经通过了试炼。
+NamelessDeityStatusPercentageText: 你已经通过了试炼：
+CattailText: 香蒲已放置！
+PurifierMultiplayerUseAlertText: 净化者已由{0}部署，世界将在15秒内重置。
+PurifierEntertainingRantText:
+	'''
+	你好！这个白色背景很正常，你的游戏没有炸，请不要把这一漫长的等待当作bug报上去。
+	坐下来放松一下，如果你有一段时间没喝水的话就喝点水吧。或者专注于其他事情，比如说你的电话。
+	不管怎样，正如你可能已猜到的，这个世界正在从头开始生成。
+	让我们谈谈，好吗？具体说说为什么这个过程需要这么长时间，而且这么奇怪。
+	首先，你知道泰拉瑞亚的世界只是一个巨大的8401x2401物块网格吗？
+	它的大小足以容纳整个世界。
+	从你开始游戏的那一刻起，一直到关闭游戏，这个网格一直存在于内存中。确切来说是几十兆字节的内存。
+	它有着某种形式的"区块"，即拆分成一个个子部分。但这实际上只适用于多人游戏，因为通过网络将整个世界传输到客户端将是非常糟糕的，并且很可能导致游戏崩溃。
+	这就是为什么当服务器即将崩溃时，你会从地图上掉下来，因为你超出了其中一个"区块"的界限，服务器无法向你发送其他区块。
+	回到世界生成上吧，一切东西都要在这个网格中进行。与《我的世界》不同，《泰拉瑞亚》的世界生成并非是一件在你移动的过程中逐步完成的事，它必须一次性完成。
+	此外，许多世界生成的步骤都是同步完成的，或者一次一个，而不是同时进行多个。
+	当然，后者不可能适用于所有情况，因为在很多情况下会发生冲突。但正如你想象的，在可能的情况下并行运行对于性能来说会有一定的提升。
+	有时候某些步骤并不是很有效，在某些情况下，一次安置液体的步骤需要几秒钟。
+	据我所知，沙漠化的步骤可以说是有着令人担忧的循环量。首先是整个沙漠的水平方向。
+	然后是从上到下的垂直方向。然后穿过整个沙漠的所有"集群"，再然后穿过集群内部的所有物块。
+	然而，我将这种效率低下的生成方式归结于mod作者们，而不是原版游戏（我也对此感到内疚）。
+	在过去，我常用的奇怪做法是使用递归（也就是调用自身的函数，这解释起来有点奇怪）来计算硫磺海给定区域内所有的水，然后重复多次。
+	呃啊，这……简直是一团糟。
+	无论如何！我很想继续说下去，但你的世界估计已经被彻底抹去了，我可不想说到一半突然被打断！
+	下次你有世界要重置时，我会再给你放一次这段独白。回头见！
+	'''
+LofiMusicCreditText:
+	'''
+	正在播放：
+	'worldgen.ogg'
+	作者：Moonburn
+	'''
+OgsculeDontAnnoyCalDevsText: 这个终末石的效果不是灾厄本体加的，不要拿这个去打扰他们的开发者。
+SolynArriveUnknown: 一个神秘人来到了你的小镇……
+SolynDepartUnknown: 神秘人已离开……
+SolynArriveKnown: Solyn已到达！
+SolynDepartKnown: Solyn已离开！
+CloudSaveMessage: 如果你想用终末石，把云存档关了。它是子世界模组中加载页面定格bug的来源。
+SolynParadiseReclaimed1: 这里……如此平静。
+SolynParadiseReclaimed2: 然而，感觉有什么可怕的事情即将发生……
+SolynParadiseReclaimed3: 某种东西……从下方来了！！
+SolynParadiseReclaimedSaveText: 我来救你！
+SolynRunAway: 快跑！
+SolynStayBelowMe: 待在我下方！
+SolynAvatarReaction1: 等等……发生什么了？？
+SolynAvatarReaction2: 天啊！那是什么鬼东西？！！
+OpenSolynQuestbook: 打开Solyn的任务书
+TelescopeDaytimeText: 现在太亮了！
+TelescopeRepairFailText: 修理材料不足！
+AvatarPlayerDeathText: 你已经死亡。
+PermafrostKeepMapIconText: 神秘要塞
+SummonMarsButtonText: 召唤（火星）
+
+SolynDraedonInteraction: {
+	Draedon1: 嗯！我尊敬的实验对象再次与我接触，这次还带着他们的伙伴。
+	Draedon2: Solyn，我猜对吗？
+	Solyn1: 等等……你怎么知道我的名字的？？
+	Draedon3: 收集所有知识是我的终极追求。
+	Draedon4: 如果在我们上次相遇之后不研究你的朋友，那我作为科学家就太失职了。
+	Solyn2: 你说的是什么意-
+	Draedon5: 不要再说了。
+	Draedon6: 我知道并且拥有你们两个所寻求的东西。
+	Draedon7: 然而，我不能就这样把它交给你们。
+	Draedon8: 我想在战斗中考验你们两个。你可以说这是一个罕见的案例研究。
+	Draedon9: 你们将与我最强大的机器战斗并击败它。
+	Draedon10: 作为交换，我会给你们一个特殊的种子，用于你们的花卉超级武器。
+	Draedon11: 你们接受这个提议吗？
+	Solyn3: 我已经很久没有战斗了。
+	Solyn4: 但是……我接受。你呢？
+}
+
+SolynDraedonInteractionSuccessive: 你准备好了吗？
+PlayerDraedonAcceptance: 我接受。
+PlayerDraedonAcceptanceSuccessive: 我准备好了。
+DraedonAcceptanceResponse: 太好了！他们很快就会到来。
+DraedonAcceptanceResponseSuccessive: 太好了。
+SolynGetToMe: 到我这里来！
+SolynBreakForcefield: 用星星打破力场！
+SolynBreakForcefield2: 再来一下！
+SolynUseMouseButtons: 按住左键和右键！
+
+DraedonEndingMonologue: {
+	Draedon1: 精彩绝伦。
+	Draedon2: 你们两个提供的数据简直完美无缺。
+	Solyn1: 那真是……出乎意料的有趣！
+	Solyn2: 但是……种子在哪里？
+	Draedon3: 不用担心。我已经履行了我的承诺。
+	Draedon4: 你们现在拥有的那颗种子就是我的机器唯一的能量来源。
+	Draedon5: 我很期待看到你们如何使用它。
+	Draedon6: 祝你们好运，再见。
+}
+
+DarkRiftVaniquishText: 黑暗裂隙，瞬间被消灭。
+SolynHandwrittenNoteFarewellText:
+	'''
+	嘿！
+
+	我注意到你花了很多精力来保持我的小书架快乐和充实！
+	说实话，我很惊讶你能找到这些书中的一些。史莱姆圣经？多么有趣！
+
+	总之……如果你正在读这个，那就意味着我已经不在你身边了。也许是创世出了什么可怕的问题。不管怎样，我相信你已经知道答案了。
+
+	这不算什么，我本来很想亲自展示给你看，但是……我想在我离开后把我的秘制肉桂卷配方给你。
+	每当你使用它的时候，就想想我，想想我们在一起的时光。
+
+
+	-Solyn
+	'''
+SolynBackstory1: 正如你可能已经猜到的，我……不是来自这个世界。
+SolynBackstory2: 我的家乡是一个郁郁葱葱的地方，沐浴在双子太阳的温柔光芒之下。
+SolynBackstory3: 我的族人是和平的，博学的，充满敬畏的。
+SolynBackstory4: 我们长期保持着我们的传统，唱着与星辰旋律相和的歌。
+SolynBackstory5: 对着自然的微风吹着口哨。
+SolynBackstory6: 至于我……追寻那些难以捉摸的事物一直是我的痴迷。
+SolynBackstory7:
+	'''
+	从我还是个小女孩时起，那种渴望知识的欲望就一直在燃烧。
+	渴望与我们的造物主亲近。
+	'''
+SolynBackstory8: 在这方面，几乎没有人能像我一样有这样的机会。
+SolynBackstory9: 然而……我现在只能想象我的老朋友们是否也像我想念他们一样想念着我。
+SolynTestBuildup1: 我很幸运地出生在我们星系所有行星对齐这个特殊事件的时间附近。
+SolynTestBuildup2: 人们相信，当这种情况发生时，我们的创造者会短暂地注视我们的世界。
+SolynTestBuildup3: 在那一刻，我做了一件前所未有的事。
+SolynTestBuildup4: 使用我收集的神秘物品和古老魔法，我祈求得到认可，渴望获得终极的知识和理解。
+SolynTestBuildup5: 很明显，这样的机会永远不会再次出现在我面前。
+SolynTestBuildup6: 下一件我知道的事就是……我出现在一个不可能存在的存在面前，周围环绕着我从未见过的自然之美。
+SolynTestBuildup7: 我感觉到，在追寻我所寻求的过程中，我的决心将受到考验。
+SolynTestBuildup8: 然后……
+SolynTestBuildup9: 我失败了。

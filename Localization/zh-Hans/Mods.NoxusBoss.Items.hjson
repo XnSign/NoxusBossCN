@@ -1,0 +1,1179 @@
+Cattail: {
+	DisplayName: 香蒲
+	Tooltip: ""
+}
+
+CheatPermissionSlip: {
+	DisplayName: 作弊许可单
+	Tooltip:
+		'''
+		恭喜！现在去下载DragonLens mod吧
+		这不是作弊，这张单子允许你这样做
+		快点，去下载它。
+		立刻，马上。
+		'''
+}
+
+DeificTouch: {
+	DisplayName: 神化之触
+	Tooltip: 在光标后展露出乐园之景
+}
+
+DivineWings: {
+	DisplayName: 上神之翼
+	Tooltip:
+		'''
+		水平飞行速度: 16.67
+		加速倍率: 3.7
+		卓越的垂直飞行速度
+		飞行时间: ∞
+		"你已经通过了试炼"
+		'''
+}
+
+BlackHole: {
+	DisplayName: 黑洞
+	Tooltip: 它是个黑洞，字面意义上的
+}
+
+EntropicDye: {
+	DisplayName: 暗熵末神染料
+	Tooltip: ""
+}
+
+EternalGardenMusicBox: {
+	DisplayName: 音乐盒（永恒花园）
+	Tooltip: 播放"伊甸园的低语" 作者：ENNWAY!
+}
+
+FakeTerminus: {
+	DisplayName: 终末石
+	BaseTooltip: 一件不可思议的古老造物，其被尘封深渊底部以进行保护
+	UnopenedTooltip: 它的眼睛闭上了
+	OpenedTooltip: 它的眼睛睁开了，你将进行一场试炼
+	Tooltip:
+		'''
+		已替换
+		已替换2
+		'''
+}
+
+GoodApple: {
+	DisplayName: Good Apple
+	Tooltip:
+		'''
+		好树无坏果！
+		你必须通过试炼
+		'''
+	TooltipPostNamelessDeity:
+		'''
+		好树无坏果！
+		额外增加1点生命上限
+		可以无限次使用
+		'''
+}
+
+GoodAppleResetter: {
+	DisplayName: Good Apple重设器[DEBUG]
+	Tooltip: ""
+}
+
+LoreAvatar: {
+	DisplayName: 诺克萨斯
+	Tooltip:
+		'''
+		[c/E3AF40:寄宿其上的低语流入你的耳中……]
+		按住"左Shift"仔细聆听
+		'''
+	Lore:
+		'''
+			阴糜范式。苦寒氤氲。蔓生向    一个    终结的         世界
+		黑暗存在，孑然一身。在破灭的  	时间中， 寻求燃尽，寻求探觅
+		扭曲镜像。寓言之挽。浑熵。于血泪交织中浮现
+		瞬息的
+			呼吸
+		力瞳初藐。力拒外物以谜渺
+
+				凛冽的残余
+		为腐秽暝风奏响祷诫
+		怨戾，罪旨永恒之判节
+
+			涌动的暗流亲手将色彩之斑驳重覆谷底
+
+					冥宙挽歌为旧日神祇绎鸣
+
+		降临。降临。		降临					降临
+		降临
+
+		一道焕世之光的普照下，伪面者漂荡过高等生灵之域。万物于神灵的恩施下兴衰荣朽。
+
+					黑暗的存在，完美世界中最为璀璨的那颗星辰
+
+			此刻，汝将起舞 		于埋葬之宿命    的帷幕下
+		在没有   百合花绽放的地方，踏寻往昔之烬，探寻汝之宿命
+		'''
+}
+
+LoreNamelessDeity: {
+	DisplayName: 无名光神
+	Tooltip:
+		'''
+		[c/E3AF40:寄宿其上的低语流入你的耳中……]
+		按住"左Shift"仔细聆听
+		'''
+	Lore: ""
+}
+
+MetallicChunk: {
+	DisplayName: 金属碎块
+	Tooltip: 一个已死宇宙的最后残余
+}
+
+NilkCarton: {
+	DisplayName: Nilk盒子
+	Tooltip:
+		'''
+		[c/FF0832:如果你有光敏性癫痫请不要使用这个]
+		Nilk的效果需要一段时间才能生效
+		'跨维度的乳糖不耐症存在吗？'
+		'''
+}
+
+NoxiousEvocator: {
+	DisplayName: 致害诱晶
+	Tooltip: 让宇宙幻象在你的周围浮现
+}
+
+RiftEclipseToggler: {
+	DisplayName: 诺克萨斯日食启动器[DEBUG]
+	Tooltip: ""
+}
+
+NoxusMask: {
+	DisplayName: 诺克萨斯面具
+	Tooltip: ""
+}
+
+NoxusRelicItem: {
+	DisplayName: 诺克萨斯圣物
+	Tooltip: ""
+}
+
+EmptinessSprayer: {
+	DisplayName: 诺克萨斯喷雾器
+	Tooltip:
+		'''
+		喷出一股混乱烟雾，蒸发掉它接触的一切
+		"保证能杀死99.9%的低等生物！"
+		'''
+}
+
+AvatarTrophy: {
+	DisplayName: 诺克萨斯纪念章
+	Tooltip: ""
+}
+
+NuminousDye: {
+	DisplayName: 光辉圣神染料
+	Tooltip: ""
+}
+
+OblivionChime: {
+	DisplayName: 湮灭之钟
+	Tooltip: ""
+}
+
+StarCharm: {
+	DisplayName: 星辰护符
+	Tooltip:
+		'''
+		在物品栏中时大幅提升被动幸运值和夜晚流星雨的出现概率
+		[c/F79BC6:'这是我的个人设计！希望你会觉得有用！']
+		'''
+}
+
+Terminal: {
+	DisplayName: 终末之石
+	Tooltip:
+		'''
+		目前，我们拒绝将Boss Rush视作一个事件
+		事实上，它充其量也只是个拥有些许挑战性的战斗
+		然而，尽管如此，随着终末石功能的改变，我们还是决定最好为
+		那些喜欢br或者需要用br进行测试的人添加一种体验该事件的替代方式
+		'''
+}
+
+ThePurifier: {
+	DisplayName: 净化者
+	Tooltip:
+		'''
+		将整个世界重置为初始状态
+		这个过程可能需要一段时间，所以如果游戏暂停了一段时间的话不必惊慌
+		一旦投掷，炸弹需要15秒才会引爆
+		如果你不小心把它扔出去了，可以保存并退出防止它爆炸
+		2012
+		[c/FF3F5D:警告：该物品会重置本世界的一切，将其恢复至初始状态，包括地形与游戏进度
+		请谨慎使用]
+		'''
+}
+
+NamelessDeityMask: {
+	DisplayName: 无名光神面具
+	Tooltip: "'你的脸将会变成【数据删除】'"
+}
+
+NamelessDeityMusicBox: {
+	DisplayName: 音乐盒（无名光神）
+	Tooltip: 播放"扭曲花园" 作者：Heart Plus Up!与ENNWAY!
+}
+
+NamelessDeityMusicBoxP3: {
+	DisplayName: 音乐盒（无名光神-最终阶段）
+	Tooltip: 播放"REPLACED VIA CODE DONT CHANGE THIS" 作者：Heart Plus Up!与ENNWAY!
+}
+
+NamelessDeityRelicItem: {
+	DisplayName: 无名光神圣物
+	Tooltip: ""
+}
+
+NamelessDeityTrophy: {
+	DisplayName: 无名光神纪念章
+	Tooltip: 当接收电线发出的信号后，默认情况下眼睛将闭上，直到玩家靠近为止。
+}
+
+NamelessDeityTreasureBag: {
+	DisplayName: 宝藏袋（无名光神）
+	Tooltip: ""
+}
+
+Starseed: {
+	DisplayName: 恒星之种
+	Tooltip: ""
+}
+
+Xenqiterthralyensyr: {
+	DisplayName: Xenqiterthralyensyr
+	Tooltip: 其作者的名字早已消失于时间的长河之中
+}
+
+DichromaticGlossDye: {
+	DisplayName: 二色光泽染料
+	Tooltip: ""
+}
+
+ScarletShadeDye: {
+	DisplayName: 绯红暗影染料
+	Tooltip: ""
+}
+
+GoodDye: {
+	DisplayName: Good染料
+	Tooltip: ""
+}
+
+AvatarTreasureBag: {
+	DisplayName: 宝藏袋（诺克萨斯）
+	Tooltip: ""
+}
+
+StarKite: {
+	DisplayName: 星星风筝
+	Tooltip:
+		'''
+		有风的日子可以放风筝
+		使用右键点击收卷风筝线
+		'''
+}
+
+SolynDialogueResetter: {
+	DisplayName: Solyn对话重置器[DEBUG]
+	Tooltip: ""
+}
+
+Veilray: {
+	DisplayName: 纱鳐
+	Tooltip: ""
+	QuestDescription:
+		'''
+		当一切都变得黯淡无光时，各种可怕的鱼开始出现了！其中便有纱鳐，一种有时在海面附近游动的苍白之鱼。
+		我不知道这玩意处理起来安不安全，但这并不重要。重要的是我需要你来帮我抓住它！
+		'''
+	QuestionCatchLocation: （抓捕位置：海洋）
+}
+
+InterstellarBait: {
+	DisplayName: 星际鱼饵
+	Tooltip:
+		'''
+		不会消耗
+		'不知为何，这能吸引鱼类'
+		'''
+}
+
+Erilucyxwyn: {
+	DisplayName: Erilucyxwyn
+	Tooltip:
+		'''
+		那么，你是怎么得到这个的？
+		是通过搞笑的掉落概率，还是那个愚蠢的决心考验？
+		...或者你只是用了作弊许可单通过DragonLens获得的？
+
+		'从闪耀的河流中带来，经过无数纪元的精心培育。这就是获得神明青睐的奖励'
+		'''
+}
+
+GodglimmerDye: {
+	DisplayName: 神光闪烁染料
+	Tooltip: ""
+}
+
+MoonBurnDye: {
+	DisplayName: 月光燃烧染料
+	Tooltip: ""
+}
+
+SolynStatue: {
+	DisplayName: Solyn雕像
+	Tooltip: ""
+}
+
+Worldbuilding: {
+	DisplayName: 世界构建
+	Tooltip: "'Smolyn'"
+}
+
+WrathOfTheGods: {
+	DisplayName: 诸神之怒
+	Tooltip:
+		'''
+		'你将畏惧无名光神的愤怒，Redigit...'
+		'无名光神的诸神之怒'
+		'''
+}
+
+SolynFollowSpawner: {
+	DisplayName: Solyn跟随生成器[DEBUG]
+	Tooltip: ""
+}
+
+SolynDeleter: {
+	DisplayName: Solyn删除器[DEBUG]
+	Tooltip: ""
+}
+
+GoldTelescope: {
+	DisplayName: 金望远镜
+	Tooltip: ""
+}
+
+StarlitForge: {
+	DisplayName: 星光熔炉
+	Tooltip:
+		'''
+		一个通用的制作站，不知为何可以当作工作台、熔炉、铁砧和其他所有工具使用
+		它甚至还能凭空制造肉桂卷
+		[c/F79BC6:'它是怎么工作的？嘿，它就像普通熔炉一样加热材料，笨蛋！']
+		'''
+}
+
+StarblessedPlatform: {
+	DisplayName: 星辉平台
+	Tooltip:
+		'''
+		当两个这样的平台能够水平相连时，它们会投射出可行走的光桥
+		这道光桥只能通过破坏生成它的其中一个平台来摧毁
+		平台之间的距离必须在222格以内才能相连
+		这些平台可以直接放置在空中
+		[c/F79BC6:'很酷吧？就像通往天堂的阶梯一样！']
+		'''
+}
+
+PlatinumTelescope: {
+	DisplayName: 铂金望远镜
+	Tooltip: ""
+}
+
+CinnamonRollyn: {
+	DisplayName: 肉桂卷
+	Tooltip:
+		'''
+		所有属性获得星辰般的提升
+		[c/F79BC6:'这爆发性的甜味来源于我名字的双关语！']
+		'''
+}
+
+SolynTentSpawner: {
+	DisplayName: Solyn帐篷生成器[DEBUG]
+	Tooltip: ""
+}
+
+NamelessDeityDeathToggler: {
+	DisplayName: 无名光神死亡切换器[DEBUG]
+	Tooltip: ""
+}
+
+AvatarDeathToggler: {
+	DisplayName: 虚空化身死亡切换器[DEBUG]
+	Tooltip: ""
+}
+
+EasyAvatarSummoner: {
+	DisplayName: 简易虚空化身召唤器[DEBUG]
+	Tooltip: 打开黑暗者的裂隙
+	AlternateTooltip: 左键点击召唤第二阶段的黑暗者裂隙，右键点击召唤第一阶段的裂隙
+}
+
+StarshapersWill: {
+	DisplayName: 星辰塑造者的意志
+	Tooltip: ""
+}
+
+PortalSkirt: {
+	DisplayName: 传送门裙子
+	Tooltip: "'令人惊讶的是，它只到腰部'"
+}
+
+PerversePurse: {
+	DisplayName: 异次元钱包
+	Tooltip:
+		'''
+		一个包含口袋次元的特殊钱包。使用时会绑架并储存（大多数）附近的城镇NPC
+		钱包最多可以储存三个城镇NPC
+		右键点击将释放最后一个被绑架的城镇NPC到你的位置
+		如果任何钱包中包含一个城镇NPC，在该NPC被释放或钱包被销毁之前，这个NPC将不会自然生成
+		[c/F79BC6:'我通常用这个来随身储存东西。让我的口袋保持轻便。']
+		[c/F79BC6:'我相信你也会找到类似的用途！']
+		'''
+	InfoLine: 这个钱包里装着{1}，{0}
+}
+
+LotusOfCreation: {
+	DisplayName: 创世莲花
+	Tooltip:
+		'''
+		为你和Solyn创造的独一无二的花朵
+		右键点击可以获得无敌状态
+		'''
+	SellText: 这是给你和Solyn的，不是给这个无业游民的
+}
+
+Dreamcatcher: {
+	DisplayName: 捕梦网
+	Tooltip:
+		'''
+		释放三个特殊的鱼钩
+		第一个鱼钩捕获普通物品
+		第二个鱼钩只捕获任务鱼
+		第三个鱼钩只捕获宝匣
+		可以在熔岩中钓鱼
+		[c/F79BC6:'它的工作原理就像磁力，只不过更酷！']
+		'''
+}
+
+StarlitCampfire: {
+	DisplayName: 星光篝火
+	Tooltip: ""
+}
+
+SuperstarHairDye: {
+	DisplayName: 超级巨星染发剂
+	Tooltip: ""
+}
+
+SuperstarDye: {
+	DisplayName: 超级巨星染料
+	Tooltip: ""
+}
+
+TriadicFractureDye: {
+	DisplayName: 三色破碎染料
+	Tooltip: ""
+}
+
+Moonscreen: {
+	DisplayName: 月光屏障
+	Tooltip:
+		'''
+		允许佩戴者在打开时沐浴在树下的光芒中而不会召唤无名光神
+		右键点击关闭它，禁用效果
+		'''
+	TooltipClosed:
+		'''
+		允许佩戴者在打开时沐浴在树下的光芒中而不会召唤无名光神
+		右键点击打开它，启用效果
+		'''
+}
+
+DormantKey: {
+	DisplayName: 休眠钥匙
+	Tooltip:
+		'''
+		一把神秘的钥匙，是Permafrost为感谢你释放他而给予的
+		[c/53C0EF:看起来Solyn会知道些什么...]
+		'''
+}
+
+SolynQuestResetter: {
+	DisplayName: Solyn任务重置器[DEBUG]
+	Tooltip: 将所有Solyn的任务状态重置为默认值，标记为未进行和未完成
+}
+
+Genesis: {
+	DisplayName: 创世
+	Tooltip: ""
+}
+
+FrostblessedSeedlingItem: {
+	DisplayName: 霜祝种子
+	Tooltip:
+		'''
+		来自Permafrost要塞的一颗寒冷的魔法幼苗
+		[c/D22444:如果正确培育，它的无限潜力将被释放]
+		'''
+}
+
+TheAntiseed: {
+	DisplayName: 反种子
+	Tooltip:
+		'''
+		一颗古老的种子，为了保护而被封印在一道神秘的裂隙中
+		[c/D22444:当放置在霜祝种子附近时，它的力量可以与之结合]
+		'''
+}
+
+SyntheticSeedling: {
+	DisplayName: 合成种子
+	Tooltip:
+		'''
+		一颗由嘉登在原子层面上制造的人造种子，用作可持续能源
+		[c/D22444:当放置在霜祝种子附近时，它的力量可以与之结合]
+		'''
+}
+
+PluripotentSprout: {
+	DisplayName: 全能幼芽
+	Tooltip:
+		'''
+		它很黏滑，带着耀眼的虹彩
+		[c/D22444:当放置在霜祝种子附近时，它的力量可以与之结合]
+		'''
+}
+
+BlazingBud: {
+	DisplayName: 烈焰花蕾
+	Tooltip:
+		'''
+		一颗蕴含巨大能量的幼芽。从中可以隐约听到尖叫声、哭泣声和永不停息的地狱火焰的噼啪声
+		[c/D22444:当放置在霜祝种子附近时，它的力量可以与之结合]
+		'''
+}
+
+HandwrittenNote: {
+	DisplayName: 手写便条
+	Tooltip:
+		'''
+		一张Solyn写的便条。看起来是最近写的
+		点击查看内容
+		'''
+}
+
+AvatarAuricSoul: {
+	DisplayName: 畸形金辉魂
+	Tooltip: 这不是官方设定
+}
+
+NamelessAuricSoul: {
+	DisplayName: 至高金辉魂
+	Tooltip: 这不是官方设定
+}
+
+StaffOfRejuvenation: {
+	DisplayName: 复苏法杖
+	Tooltip: 在泥土或普通草地上使用时会长出特殊的草
+}
+
+AvatarRiftMusicBox: {
+	DisplayName: 音乐盒（虚空化身裂隙）
+	Tooltip: 播放'Static' 作者：ENNWAY!
+}
+
+AvatarOfEmptinessP2MusicBox: {
+	DisplayName: 音乐盒（虚空化身-第二阶段）
+	Tooltip: 播放'Paradise Parasite' 作者：ENNWAY!
+}
+
+AvatarOfEmptinessP3MusicBox: {
+	DisplayName: 音乐盒（虚空化身-第三阶段）
+	Tooltip: 播放'Paradise Parasite' 作者：ENNWAY!
+}
+
+MarsMusicBox: {
+	DisplayName: 音乐盒（火星）
+	Tooltip: 播放'RAMifications' 作者：Moonburn
+}
+
+NilkSongMusicBox: {
+	DisplayName: 音乐盒（Nilk）
+	Tooltip: 播放'The Nilk Song' 作者：ENNWAY!
+}
+
+HemolacriaMusicBox: {
+	DisplayName: 音乐盒（裂隙日食血月）
+	Tooltip: 播放'Hemolacria' 作者：Moonburn
+}
+
+RiftEclipseFogMusicBox: {
+	DisplayName: 音乐盒（裂隙日食迷雾）
+	Tooltip: 播放'Mirrortwist' 作者：Lucille Karma
+}
+
+RiftEclipseMusicBox: {
+	DisplayName: 音乐盒（裂隙日食）
+	Tooltip: 播放'nowhere now here' 作者：Moonburn
+}
+
+RiftEclipseBlizzardMusicBox: {
+	DisplayName: 音乐盒（裂隙日食暴雪）
+	Tooltip: 播放'-273.15' 作者：Moonburn
+}
+
+TheTelescopeSongMusicBox: {
+	DisplayName: 音乐盒（望远镜）
+	Tooltip: 播放'The Telescope Song' 作者：Moonburn
+}
+
+AscentMusicBox: {
+	DisplayName: 音乐盒（闪耀阶梯）
+	Tooltip: 播放'ascent' 作者：ENNWAY!与Moonburn
+}
+
+SvalbardMusicBox: {
+	DisplayName: 音乐盒（Permafrost要塞）
+	Tooltip: 播放'Svalbard' 作者：Moonburn
+}
+
+StellarRequiemMusicBox: {
+	DisplayName: 音乐盒（忧郁营地）
+	Tooltip: 播放'Stellar Requiem' 作者：Moonburn
+}
+
+EndCreditsMusicBox: {
+	DisplayName: 音乐盒（片尾致谢）
+	Tooltip: 播放'Wrath of the Gods' 作者：Moonburn
+}
+
+GraphicalUniverseImager: {
+	DisplayName: 图形宇宙成像仪
+	Tooltip: 放置后可以右键点击来激活各种自定义背景效果
+}
+
+GardenFountain: {
+	DisplayName: 花园喷泉
+	Tooltip: ""
+}
+
+RageOfTheDeities: {
+	DisplayName: 诸神之怒
+	ObtainmentHint: "[c/F79BC6:硫磺熔炉可能会揭示这本书的来源]"
+	Tooltip:
+		'''
+		这本书以下面的摘录开始：
+
+		两个存在，为了统治一切而战，
+		对时间的流逝视而不见。
+		'''
+}
+
+AppleThesis: {
+	DisplayName: 苹果论文
+	ObtainmentHint: "[c/F79BC6:你可能会在树冠中找到这本书]"
+	Tooltip:
+		'''
+		一篇关于苹果无尽用途的论文！
+		酱料、黄油、苹果酒、装饰品、香薰……
+
+		看起来是一只松鼠写的
+		'''
+}
+
+BibleOfSlime: {
+	DisplayName: 史莱姆圣经
+	ObtainmentHint: "[c/F79BC6:史莱姆可能有这本书]"
+	Tooltip:
+		'''
+		在最初，从原始粘液的深处，Goozma，那纯粹而坚韧的本质，诞生了
+		从他可塑的形态中涌现出优雅和智慧，每个史莱姆中都能看到这神圣的火花
+
+		有福的是那些流动的，因为他们将随着时间的潮汐而动，永不被命运的考验所折断。有福的是那些无形的，因为他们总能找到存在的方式
+
+		万物，以史莱姆的形态，与创造的流动合为一体
+
+		阿门。
+		'''
+}
+
+BookOfMiracles: {
+	DisplayName: 奇迹之书
+	ObtainmentHint: "[c/F79BC6:这本书可能与四台战斗机器有关]"
+	Tooltip: 书页的内容被一种耀眼的、青柠色的分解效果所遮掩
+}
+
+Cactome: {
+	DisplayName: 仙人掌之书
+	ObtainmentHint: "[c/F79BC6:这本书可能藏在沙丘下滚动的某物中]"
+	Tooltip:
+		'''
+		它只包含一页密集的内容
+		这页上写着：
+
+		'你的手还好吗？'
+		'''
+}
+
+DecayingTome: {
+	DisplayName: 腐朽之书
+	ObtainmentHint: "[c/F79BC6:我会自己试着找到这本书]"
+	Tooltip:
+		'''
+		它的内容几乎完全腐烂了，书页破烂不堪
+		看来没有蘑菇（mushroom）留给写作了
+		'''
+}
+
+FuturisticTreatise: {
+	DisplayName: 未来论文
+	ObtainmentHint: "[c/F79BC6:这本书可能与四台战斗机器有关]"
+	Tooltip: ""
+}
+
+HowToFly: {
+	DisplayName: 如何飞行
+	ObtainmentHint: "[c/F79BC6:你可能会在天空中找到这本书]"
+	Tooltip:
+		'''
+		第一页写着：
+		'按住跳跃键。'
+
+		剩下的九十六页都是空白的
+		'''
+}
+
+OminousStorybook: {
+	DisplayName: 不祥故事书
+	ObtainmentHint: ""
+	Tooltip:
+		'''
+		[c/C69C97:一次脉动，然后是寂静]
+		[c/C69C97:星辰呼出。种子劈开石头]
+
+		[c/C69C97:灰烬附着在风中，低语着它永远不会知晓的森林]
+		[c/C69C97:光芒消逝于永恒的黑暗。进入另一个黎明的褶皱]
+		[c/C69C97:它的边缘在重生中磨损]
+
+		[c/C69C97:世界兴衰，从宏大的泡沫中浮现又消失]
+
+		[c/C69C97:然而时间不是一条线，]
+		[c/C69C97:而是火焰的绽放]
+		 
+		[c/C69C97:花瓣向内卷曲]
+		[c/C69C97:灰烬向外螺旋]
+		[c/C69C97:没有开始。没有结束]
+		[c/C69C97:只有存在的运动]
+
+		[c/C69C97:你听到了吗？废墟下那微弱的嗡鸣]
+
+		[c/CEA3A3:运动的记忆-]
+		[c/EF908D:车轮轴的转动]
+		[c/FF6660:火花的跃动]
+
+		[c/FF5171:一个世界的觉醒]
+		[c/FF274A:从一朵花坠落的阴影中]
+		'''
+}
+
+TwentyTwome: {
+	DisplayName: 二十二之书
+	ObtainmentHint: "[c/F79BC6:这本书似乎在丛林植物中]"
+	Tooltip:
+		'''
+		一位默默无闻的作者的奇怪胡言乱语，编造了大量关于黄蜂和数字二十二的联系
+		在最后一页用阴郁的语气详细描述了一种叫做"黄蜂回合"的东西
+		'''
+}
+
+InscrutableTexts: {
+	DisplayName: 难解的文本
+	ObtainmentHint: "[c/F79BC6:这本书属于一位大法师]"
+	Tooltip:
+		'''
+		文字几乎难以辨认，包含了无数你勉强认识的魔法术语
+
+		'一个有志者晋升至魔法的崇高境界，这种成就只有最敏锐、最睿智的头脑才能达到。'
+		'在无数个夜晚的银色守望下，我在这冰冷的圣所中学习，在实践和理论上孜孜不倦地努力。'
+		'在这本书中，我将阐述通过数十年工作所发现的深奥真理和所掌握的奥秘。'
+
+		你决定不再继续读下去
+		'''
+}
+
+AberrantWritings: {
+	DisplayName: 异常文字
+	ObtainmentHint: "[c/F79BC6:我会自己试着找到这本书]"
+	Tooltip:
+		'''
+
+		'...'
+		'''
+}
+
+AbsenceNotice: {
+	DisplayName: 缺席通知
+	ObtainmentHint: "[c/F79BC6:你可能会在水下深处找到这本书]"
+	Tooltip:
+		'''
+		一张神秘的纸条，表明某人的缺席
+		它用字母X签名
+		'''
+}
+
+AcidicPrayerbook: {
+	DisplayName: 酸性祈祷书
+	ObtainmentHint: "[c/F79BC6:这本书似乎与腐蚀性降雨有关]"
+	Tooltip:
+		'''
+		一本看起来很古老的书。从你能看出的内容来看，它的语气很虔诚
+		它还包含了各种常见主题，包括猪形生物、龙和一个所谓的"海洋硫磺恐怖"
+
+		除此之外的细节很难理解
+		'''
+}
+
+AncientWritings: {
+	DisplayName: 远古文字
+	ObtainmentHint: "[c/F79BC6:你可能会在一个被诅咒的人那里找到这本书]"
+	ShopTooltip: 购买以阅读其内容
+	Tooltip:
+		'''
+		一本极其古老的书，主要关注一个所谓的恶魔诅咒，提供了大量令人不安的关于其影响的细节
+		翻到一个随机页面，发现了以下段落：
+
+		"...在第五个循环之夜，受诅咒者的形态将暂时褪去，骨骼形态从内部浮现，引起剧烈的..."
+
+		你决定不再继续读下去
+		'''
+}
+
+BestPriceBestiary: {
+	DisplayName: 最优价格生物图鉴
+	ObtainmentHint: "[c/F79BC6:我会自己试着找到这本书]"
+	Tooltip:
+		'''
+		这本书中出现了各种生物——有些熟悉，有些陌生
+		第一个条目是一个普通的绿色史莱姆，配有一幅粗糙的儿童画，声称它们拥有精确的13,575点总生命值
+
+		这看起来并不是特别准确
+		'''
+}
+
+CloverManual: {
+	DisplayName: 幸运草手册
+	ObtainmentHint: "[c/F79BC6:获得这本书可能需要相当的运气]"
+	Tooltip:
+		'''
+		一本奇怪的小册子，讨论了所谓的"幸运机制"
+		它提到了灯笼之夜、马蹄铁、花园地精和一个神秘的叫做"银河珍珠"的东西作为好运的来源
+		它包含了一个关于如何正确对待瓢虫的警告
+
+		最后一页似乎莫名其妙地专门用来讨论彩色火把
+		'''
+}
+
+DubiousBrochureCorruption: {
+	DisplayName: 可疑的宣传册
+	ObtainmentHint: "[c/F79BC6:你可能会在腐化之地的深渊中找到这本书]"
+	Tooltip:
+		'''
+		一本轻松愉快地邀请旅行者参观腐化生物群落的宣传册
+		里面的照片明显不准确，令人困惑地美化了一切
+
+		你不禁想知道是谁制作了这个
+		'''
+}
+
+DubiousBrochureCrimson: {
+	DisplayName: 可疑的宣传册
+	ObtainmentHint: "[c/F79BC6:你可能会在血腥之地的中心找到这本书]"
+	Tooltip:
+		'''
+		一本轻松愉快地邀请旅行者参观血腥生物群落的宣传册
+		里面的照片明显不准确，令人困惑地美化了一切
+
+		你不禁想知道是谁制作了这个
+		'''
+}
+
+DubiousSpellbook: {
+	DisplayName: 可疑的法术书
+	ObtainmentHint: "[c/F79BC6:这本书属于偶尔出现在洞穴中的巫师]"
+	Tooltip:
+		'''
+		一本包含了你从未听说过的各种法术书制作信息的法术书，以及获取这些法术书的方法
+
+		- 以太崩溃：一本法术书，三根织梦者线，十个光明之魂，八块星云碎片
+		- 幽暗银光：一本法术书，一团暗等离子体，三根铂金锭，二十块低语根皮，一个寒冰核心
+		'''
+}
+
+DustyDiary: {
+	DisplayName: 布满灰尘的日记
+	ObtainmentHint: "[c/F79BC6:我会自己试着找到这本书]"
+	Tooltip:
+		'''
+		一本私人笔记本。它太旧了，每一页都已化为尘土，其中的智慧永远无法触及
+		对那些喜欢用想象力阅读的人来说是完美的发现！
+		'''
+}
+
+ExoBlueprints: {
+	DisplayName: 机械蓝图
+	ObtainmentHint: "[c/F79BC6:可以通过攻击科学家的尸体获得]"
+	Tooltip:
+		'''
+		阿瑞斯、塔纳托斯、阿尔忒弥斯和阿波罗的蓝图，附有各种技术注释，似乎是嘉登在制造这些机器时写下的
+
+		一条关于它们自主行为算法和战斗策略的小笔记特别引人注目：
+		'模拟测试表明，完全放弃精确的空中机动能力反而能让阿尔忒弥斯、阿波罗和阿瑞斯达到最大的战斗效能。这很荒谬，但也很有趣。'
+
+		你不禁同意这个结论
+		'''
+}
+
+FanaticalRamblings: {
+	DisplayName: 狂热者的胡言乱语
+	ObtainmentHint: "[c/F79BC6:我会自己试着找到这本书]"
+	Tooltip: 打开这本书不知为何会让你充满一种难以描述的仇恨感
+}
+
+FishingCatalogue: {
+	DisplayName: 钓鱼图鉴
+	ObtainmentHint: "[c/F79BC6:你可以通过专业钓鱼获得这本书作为奖励]"
+	Tooltip: 一本无聊的渔获目录。其精确度和细节程度令人印象深刻
+}
+
+FrostyPamphlet: {
+	DisplayName: 结霜的小册子
+	ObtainmentHint: "[c/F79BC6:我会自己试着找到这本书]"
+	Tooltip: 太冷了，你无法从这些结冰的页面中辨认出文字
+}
+
+HiTechInstructionManual: {
+	DisplayName: 高科技说明手册
+	ObtainmentHint: "[c/F79BC6:我会自己试着找到这本书]"
+	Tooltip: 包含了关于制造四个高科技自主机器人的奇怪笔记
+}
+
+InstructionManual: {
+	DisplayName: 说明手册
+	ObtainmentHint: "[c/F79BC6:一个强大的，月球生物拥有这本书]"
+	Tooltip:
+		'''
+		一本关于名为"泰拉瑞亚"的游戏的说明手册
+		它包含以下条目提示：
+
+		- '不知道该做什么？去找向导吧，这个城镇NPC会在你创建新世界的那一刻就出现！'
+		- '不小心放错了墙又打不掉？制作一把锤子试试！'
+		- '城镇NPC需要足够的空间、墙壁、椅子、桌子和光源才能入住！'
+
+		不知为何，你觉得这有点侮辱人
+		'''
+}
+
+InvisibleInkDissertation: {
+	DisplayName: 隐形墨水论文
+	ObtainmentHint: "[c/F79BC6:这本书可以通过转化普通书籍获得]"
+	Tooltip:
+		'''
+		页面上没有任何可见的东西，但不知怎的你能感觉到有隐形墨水的存在
+		你的好奇心啃噬着你的精神
+		'''
+}
+
+MagicLexicon: {
+	DisplayName: 魔法词典
+	ObtainmentHint: "[c/F79BC6:我会自己试着找到这本书]"
+	Tooltip:
+		'''
+		一本关于奥术的词典，满足你对魔法的信息需求
+
+		蛊惑术：使某人着迷或被迷住的行为
+		魔典法术：通过魔法书传授的一种巫术
+		魔法学：神秘学习的过程
+		神秘导师：神秘和深奥知识的教师
+		'''
+}
+
+Otherworldly1: {
+	DisplayName: 异界典籍 I
+	ObtainmentHint: "[c/F79BC6:你可能会在罐子里找到这本书]"
+	Tooltip:
+		'''
+		它是用你不懂的语言写的
+		Solyn可能知道更多关于这个的信息...
+		'''
+}
+
+Otherworldly2: {
+	DisplayName: 异界典籍 II
+	ObtainmentHint: "[c/F79BC6:这本书可以通过萃取获得]"
+	Tooltip:
+		'''
+		它是用你不懂的语言写的
+		Solyn可能知道更多关于这个的信息...
+		'''
+}
+
+Otherworldly3: {
+	DisplayName: 异界典籍 III
+	ObtainmentHint: "[c/F79BC6:这本书可能在一个罕见的，充满活力的史莱姆中找到]"
+	Tooltip:
+		'''
+		它是用你不懂的语言写的
+		Solyn可能知道更多关于这个的信息...
+		'''
+}
+
+Otherworldly4: {
+	DisplayName: 异界典籍 IV
+	ObtainmentHint: "[c/F79BC6:我会自己试着找到这本书]"
+	Tooltip:
+		'''
+		它是用你不懂的语言写的
+		Solyn可能知道更多关于这个的信息...
+		'''
+}
+
+Otherworldly5: {
+	DisplayName: 异界典籍 V
+	ObtainmentHint: "[c/F79BC6:我会自己试着找到这本书]"
+	Tooltip:
+		'''
+		它是用你不懂的语言写的
+		Solyn可能知道更多关于这个的信息...
+		'''
+}
+
+Otherworldly6: {
+	DisplayName: 异界典籍 VI
+	ObtainmentHint: "[c/F79BC6:你可能会在地牢的特殊箱子里找到这本书]"
+	Tooltip:
+		'''
+		它是用你不懂的语言写的
+		Solyn可能知道更多关于这个的信息...
+		'''
+}
+
+SanguineWildlife: {
+	DisplayName: 血腥野生动物
+	ObtainmentHint: ""
+	Tooltip: ""
+}
+
+SeamapCollection: {
+	DisplayName: 海图集
+	ObtainmentHint: "[c/F79BC6:这本书有时可能在海岸线附近找到]"
+	Tooltip:
+		'''
+		一本各种海图的目录集，上面的标记似乎指示着宝藏
+		你对其中描绘的任何地点都不熟悉
+		'''
+}
+
+SulfuricLeaflet: {
+	DisplayName: 硫磺小册子
+	ObtainmentHint: "[c/F79BC6:这本书可能在硫磺洞穴中被喷出]"
+	Tooltip:
+		'''
+		一本简短的信息小册子，描述了酸雨的危险
+		它似乎被辐射污染了
+		'''
+}
+
+TheBookOfShaders: {
+	DisplayName: 着色器之书
+	ObtainmentHint: "[c/F79BC6:我会自己试着找到这本书]"
+	Tooltip:
+		'''
+		一本关于创建着色器和程序生成艺术的信息读物
+		其中七页都在抱怨像素化的神圣性
+		'''
+}
+
+UnfinishedColoringBook: {
+	DisplayName: 未完成的涂色书
+	ObtainmentHint: "[c/F79BC6:这本书偶尔可能在我的营地附近找到]"
+	Tooltip:
+		'''
+		一本包含各种简单天体场景的涂色书
+		大约三分之二的场景都以大师级的质量上色。其余的完全未动
+		'''
+}
+
+WulfrumAssemblyGuide: {
+	DisplayName: 钨钢装配指南
+	ObtainmentHint: "[c/F79BC6:这本书可以从带电的机器中获得]"
+	Tooltip:
+		'''
+		一位受人尊敬的发明家写的详细但令人困惑的说明手册
+		说明中提到了各种工具。大多数都很陌生，其余的则以高度古怪的方式使用
+		'''
+}
+
+WorldUpdater: {
+	DisplayName: 世界版本更新器[DEBUG]
+	Tooltip:
+		'''
+		修改世界的底层版本数据，使其保持最新
+		实际上，这使得旧世界在版本特定条件下被视为新世界，例如是否可以访问Solyn的任务线
+		'''
+}
+
+SolynBookshelfResetter: {
+	DisplayName: Solyn书架重置器[DEBUG]
+	Tooltip: 重置Solyn书架中的所有书籍，以及所有未领取的奖励
+}
+
+ExoticSeedBag: {
+	DisplayName: 异域种子袋
+	Tooltip:
+		'''
+		提供召唤虚空化身所需的所有组件
+		要召唤它，请将所有种子放在彼此附近，然后在霜祝种子完全成长后右键点击它
+		[c/FF2219:此物品仅出于向后兼容性原因而存在，不应在较新的世界中使用]
+		'''
+}
+
+GenderDye: {
+	DisplayName: 性别染料
+	Tooltip: ""
+}
+
+SeedOfWill: {
+	DisplayName: 意志之种
+	Tooltip:
+		'''
+		与无名光神进行永无止境的意志考验
+		只能在花园中使用
+		如果你坚持足够长的时间，可能会得到奖励
+		'''
+}
+
+ParadiseDye: {
+	DisplayName: 天堂染料
+	Tooltip: ""
+}
+
+SolynQuestSkipper: {
+	DisplayName: Solyn任务跳过器[DEBUG]
+	Tooltip: 将Solyn的所有任务标记为完成，允许你立即激活创世
+}

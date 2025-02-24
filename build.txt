@@ -1,0 +1,8 @@
+displayName = 众神之怒个人汉化Mod
+author = Deer
+version = 0.0.3
+icon = icon.png
+modReferences = NoxusBoss
+translationMod = true
+side = NoSync
+hideResources = true

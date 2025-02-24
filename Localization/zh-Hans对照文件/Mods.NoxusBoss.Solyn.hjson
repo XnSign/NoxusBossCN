@@ -1,0 +1,378 @@
+# A '^' character corresponds to a long pause.
+SolynIntroduction: {
+	// Start: I... ^I failed...
+	// Talk1: I...
+	// Question1: Are you OK???
+	// Talk2: Oh! Hello. I... ^didn't see you there.
+	// Talk3: I... suppose so?
+	// Question2: Who are you?
+	// Talk4: I'm Solyn.
+	// Talk5: ...
+	// Talk6: Sorry, I just can't think straight.
+	// Talk7: We can talk later. Right now I... ^I need time.
+	// Question3: Alright, I'll give you some space.
+	// Talk8: Thanks. I appreciate it.
+	// Repeat: ...
+}
+
+SolynDawnDialogue: {
+	// Start: Good morning!^ A new day, a new big adventure.
+	// Player1: That's... a slightly bombastic way of putting it, Solyn.
+	// Solyn1: You never know. Some days are unexpectedly impactful.^ You can't be sure until it's finished.
+	// Player2: Well, either way. What are you up to?
+	// Solyn2: Not much. I just woke up recently.^ I had a somewhat interesting dream, though.
+	// Player3: What was it about?
+	// Dream1_Response1: Overall it was a jumbled mess, but there was one part that stuck out, at the very end.
+	// Dream1_Response2: I dreamt of an old mentor of mine. The two of us were speaking together again near the edge of a twilit pond.
+	// Dream1_Response3: But then, suddenly, out of nowhere, they stopped and stared towards the pond and started invoking a spell I'd never seen before.
+	// Dream1_Response4: Shortly after, the pond's water glimmered like stardust, making out an ancient visage. A visage familiar to me.
+	// Dream1_Response5: My mentor looked towards me again, seemingly anticipating a response.
+	// Dream1_Response6: And then, I awoke.
+	// Dream2_Response1: I dreamt of a landscape made of folded paper, beneath the empty light of a bright sepia sky.
+	// Dream2_Response2: I wandered for what seemed like an eternity, witnessing an assortment of strange, origami plants and structures dotting the surface.
+	// Dream2_Response3: Suddenly, I reached down and swept my hand, revealing an expanse of indeterminate depth beneath the paper I'd been walking on.
+	// Dream2_Response4: I stared endlessly into the abyss I had accidentally created, mystified by what had just happened.
+	// Dream2_Response5: Suddenly, a fractalline eye slowly opened, returning my gaze.
+	// Dream2_Response6: And then, I awoke.
+	// Dream3_Response1: Throughout the dream there was an idle drizzle as I was surrounded by the woodlands I'd considered home.
+	// Dream3_Response2: I walked through the forest, but found that none of my friends were present. I was alone.
+	// Dream3_Response3: As I approached a glade, I could make out sounds. Voices of myself and my loved ones- past, present, and future.
+	// Dream3_Response4: I then focused on the scent of the petrichor, and found myself struck with a kaleidoscopic burst of senses, witnessing time accelerate and curl in on itself.
+	// Dream3_Response5: Suddenly, an old friend of mine pierced the noises, informing me it was time to awaken.
+	// Dream3_Response6: I did as I was told.
+	// Dream4_Response1: Well... perhaps 'interesting' isn't the right descriptor.
+	// Dream4_Response2: I dreamt that I was walking through a misty forest with an eerie wind, surrounded by towering trees stripped of all their leaves.
+	// Dream4_Response3: After some time, I encountered... ^myself. It was as though I was walking towards a perfectly reflective mirror.
+	// Dream4_Response4: A breeze grew stronger and stronger as I walked towards the reflection, suddenly turning into a mighty gale.
+	// Dream4_Response5: As I reached to make contact with it, I realized its appearance had transformed into a ghastly shadow.
+	// Dream4_Response6: The instant our fingers touched, I woke up in a cold sweat.
+	// Dream5_Response1: Well... perhaps 'interesting' isn't the right descriptor.
+	// Dream5_Response2: The dream was about an old friend of mine.^ Things started off normal, talking about fun, obscure things as always.
+	// Dream5_Response3: But over time I discovered they were becoming increasingly translucent and difficult to hear, like a ghost.
+	// Dream5_Response4: I realized... ^with each blink I made they vanished more and more.^ And so, I strained to keep my eyes open for as long as possible.
+	// Dream5_Response5: Our conversation became bittersweet.^ In the end, I could faintly make out a wistful smile on their face.^ I knew that the next time I blinked, they'd be gone.
+	// Dream5_Response6: The last words I could make out were 'It's time to let go.'^ After this, I woke up.
+	// Player4: Truly fascinating how those work.
+	// Solyn3: ... Truly.
+}
+
+SolynSunnyDayDialogue: {
+	// Start: Hello!^ Quite sunny today, huh?
+	// Player1: I suppose so.
+	// Solyn1: Anything you plan to do with this great day?^ Frolic in the forests?^ Self-reflect in a glade?^ Acquire some vitamin D?
+	// Player2: Probably go into the caves and slay something.
+	// Solyn2: Ah, of course.
+	// Solyn3: That's a very 'you' thing to do, isn't it?
+}
+
+SolynRainyDayDialogue: {
+	// Start: Hello!^ Quite a drizzle, huh?
+	// Player1: I suppose so.
+	// Solyn1: Anything you plan to do with this rainy day?^ Sit and think near a pond?^ Go on a short stroll?^ Or just stay inside and listen to the pattering of the rain?
+	// Player2: Probably go into the caves and slay something.
+	// Solyn2: Ah, of course.
+	// Solyn3: That's a very 'you' thing to do, isn't it?^ I'll admit I understand wanting to be somewhere dry right now.
+}
+
+SolynDuskDialogue: {
+	// Start: Dusk, huh?^ It really is quite a sight.
+	// Solyn1: But... I must say, it's not quite the same as home. ^The fiery splendor, the double sunset, the fold into countless shining stars...
+	// Solyn2: It's so similar, yet so... different. ^Really, you'd have to see it for yourself to understand.
+	// Solyn3: Either way, it's good to experience something new... I suppose.
+}
+
+SolynSlimeRainDialogue: {
+	// Start: How odd!^ Slime, dropping out of the sky like rain!^ It's so weird, yet so fascinating!
+	// Solyn1: How does it work?^ I've gotta know!^
+	// Player1: I... actually have no idea.
+	// Solyn2: Ha! Figures.
+	// Solyn3: I'd marvel at the odd scene, but the slimes are obviously not very nice.
+	// Solyn4: Stay vigilant, you don't want to end up partially digested.
+}
+
+SolynStorageSailsDialogue: {
+	// Start: Say... have you ever heard of storage sails?
+	// Player1: I... can't say I have?
+	// Solyn1: Oh, they're so wonderful!^ Extremely plentiful back home!
+	// Solyn2: You know how certain ships rely on wind sails in order to move?^ It's like that, but the wind's energy is saved for later!
+	// Solyn3: They look so silly, too.^ Lattices in wooden wheel-like structures, with large plucked feathers on the end.^ If you'd seen them before, you'd get it.
+	// Player2: Alright, cool, so... what makes them work?
+	// Solyn4: I dunno!
+}
+
+SolynBooksDialogue: {
+	// Start: You know, it would've been nice if I could've at least brought along a few old possessions of mine before getting sent here.
+	// Solyn1: Back at home I had a sizeable collection of books.^ A few scrolls and old tomes too.
+	// Solyn2: Some of them were a bit obscure in terms of word choice and subject matter, and a few were a bit... strange, at least from the perspective of others.
+	// Solyn3: But some of them were just fun reads!^ Something as simple as good novels truly do wonders for one's perspective on the world.
+	// Solyn4_Mage: I'm sure a mage like you would understand.
+	// Solyn4_OtherClass: But... I suppose maybe you're not the type to be interesting in that spiel.
+	// Player1_Mage: Solyn, we don't read books. We simply hold them in our hands to cast spells.
+	// Solyn5: Ah... nevermind.^ Just thinking aloud, I guess.
+}
+
+SolynOneRedeemedBookDialogue: {
+	// Start: I saw you added a little something to my bookshelf!^ I'm really grateful.
+	// Solyn1: The scenery here really is beautiful, but I don't think I could keep staring at it all day.
+}
+
+SolynUnreadableBookDialogue: {
+	// Start: Like I said earlier, I really appreciate the books... but are you sure some of these actually count as such?
+	// Solyn1: ... At least they look pretty nice on the shelf.
+}
+
+SolynManyRedeemedBooksDialogue: {
+	// Start: Wow, my little library has really become quite the thing now. ^I can’t say how thankful I am!
+	// Solyn1: This really makes me feel more at home here. I used to have quite the collection of books...
+}
+
+SolynCompleteBookshelfDialogue: {
+	// Start: This is amazing!^ I don't have any room left on the shelf.
+	// Solyn1: We've really done so much since I got here. I hope I can fell this excited when we finish the Genesis, haha!
+	// Solyn2: Ah, speaking of the Genesis, I've been thinking... ^once it's done, I'd like to make a proper library here. With your help, of course.
+}
+
+// SolynLategameDialogue.Start: We've made great progress towards the Genesis, but we can't slow down now.^ There's still work to be done.
+
+SolynWindyDayTalk: {
+	# If its a Windy Day, Solyn is seen holding a kite.
+	WindyStart: 啊，你回来了！你好呀！
+	WindyQuestion1: 风可真够大的，不是吗？
+	WindyResponse1: 确实！不久之前，我看见一些史莱姆们乘风而行。
+	WindyResponse2: 你知道的，这听起来有点傻，我看见史莱姆们乘着它们可爱的气球到处乱飞！我已经有过多次它们差点把自己黏在我风筝上的例子了，哈哈！
+	WindyQuestion2: 跟我讲讲吧，这风筝咋样？它看起来挺不错。
+	WindyResponse3: 哦，这个老玩意？我只是喜欢在大风天里用它，看着风筝在空中翱翔。
+	WindyResponse4: 有些空闲的时候，我们可以坐下来，让大自然为我们指引前路。
+	WindyResponse5: 事实上……
+	WindyResponse6: 这个！
+	WindyResponse7: 为什么我们不一起玩玩呢？也许你可以从冒险中抽出一点时间休息一下。
+	WindyRepeatPlayerUsingKite: 哈哈！玩的开心吗？
+	WindyRepeatPlayerUsingKiteChangedMind: 啊，那么你改变主意了！我希望风儿可以起到不错的放松作用！
+	WindyRepeatDefault: 还没准备好？哈哈，好吧！那么，不管怎样，祝你玩得开心。
+}
+
+SolynPartyTalk: {
+	# If a party is ongoing, Solyn does a neat confetti teleport magic trick.
+	PartyStart: 嘿！我正期待你会出现呢！
+	PartyResponse1: 我必须承认……我通常不喜欢参加派对。但我就是忍不住不去顺路看看！
+	PartyResponse2: 毕竟，每个人似乎都玩得很开心！
+	PartyResponse3: 自从我们第一次见面以来，你的小镇发展得如此之快，这着实令人钦佩啊！
+	PartyResponse4: 啊！不过，这确实让我想起了一些事情。你想看看魔术表演吗？我已经为它准备了一段时间了！
+	PartyQuestionYes: 那还用说？
+	PartyQuestionNo: 抱歉，现在不行。
+	PartyResponseYes1: 好，我试试看！^^^
+	PartyResponseYes2: 哎呦！好险！我差点就把彩纸屑塞进嘴里了，哈哈！
+	PartyResponseYes3: 不管怎样，我希望你能在开始你的另一个危险的冒险之前多享受一会儿派对，我也打算这么做！
+	PartyResponseNo1: 啊，那有点不幸……
+	PartyResponseNo2: 但是我理解！你现在看起来有点忙。
+	PartyRepeat1: 我想我还是像往常一样在这儿待到傍晚吧。无论你打算去做什么，玩得开心！
+	SolynTada: 嗨呀！
+	SolynHatText: 啊！我的帽子！
+}
+
+StargazeQuest: {
+	// Solyn1: Hello,^ what brings you here?
+	// Player1: I noticed your telescope was broken.
+	// Solyn2: Oh, yes, I had hoped to pass the time with some stargazing, but it seems I won't be able to.^ I lack the resources to repair it.
+	// Player2: I could fix it up for you.
+	// Solyn3: Oh! If you could fix it, I'd greatly appreciate it.^ Once it's repaired, we could go stargazing together.
+	// Repeat: Don't worry about me. I'm just taking in the surroundings.
+}
+
+StargazeQuestCompletion: {
+	// Response1: Thank you!^ Astronomy has always been a great passion of mine, and I'm excited to share it with someone else.^ We can begin once night falls.
+	// Response2: ""
+}
+
+StargazeQuestSawRift: {
+	// Talk1: ^I've never seen anything quite like that before...
+	// Talk2: Whatever it is, I've got a bad feeling about it.
+	// Response1: Is there anything we'd be able to do about it?
+	// Talk3: Hmm...
+	// Talk4: I'd need to think that over a bit.
+	// Response2: Solyn, that was rhetorical.
+	// Talk5: I suppose you're right. I might just be getting worked up over nothing.
+	// Talk6: Either way... I'm glad that we got to enjoy the stars together. They were really beautiful tonight.
+	// Talk7: Hopefully we can enjoy them again sometime.
+	// Talk8: In the meantime though, have this.
+	// Talk9: A personal design of mine. I'm sure you'd be able to put it to good use.
+	// Talk10: Anyway, I'll be going to sleep momentarily. It's quite late!
+}
+
+DormantKeyDiscussion: {
+	// Start: Hey! Something up?
+	// StartingQuestion: Permafrost gave me this key for freeing him. Would you happen to know anything about it?
+	// Conversation1: Hmm...
+	// Conversation2: That key doesn't strike me as ordinary. It's imbued with some form of magic spell.
+	// Conversation3: Ooh! That gives me an idea!
+	// Conversation4: An idea? What kind of idea?
+	// Conversation5: I'm picking up a faint magic signature identical to the one emitted by this key. It's somewhere deep within the frozen caverns.
+	// Conversation6: We should go and explore it. If it was locked, I'm sure we'll find some awesome things in there!
+	// Conversation7: Here. I'll mark its location on your map.
+	// Conversation8: I'll be there when you're ready, and then we can explore around a bit!
+}
+
+// PermafrostKeepDiscussion_BeforeOpening.Start: Use the key on the door, and it'll open!
+
+PermafrostKeepDiscussion_AtSeed: {
+	// Start: Hmm...
+	// Conversation1: I've been looking around, but there doesn't seem to be too much of note, ^except for this.
+	// Conversation2: This frozen artifact appears to be some sort of seed...
+	// Conversation3: Furthermore, it has incredible magical potential. ^I can sense it.
+	// Conversation4: I'm not sure what it could be used for, ^but I'd recommend taking and holding onto it for later.
+	// Response1: Will do.
+	// Conversation5: Good. As for me, ^I'll give this some thought. I'm sure we could do great things with this seedling.
+	// Conversation6: Either way, I'll be taking my leave, I think. ^This place is rather small!
+}
+
+FrostblessedSeedlingDiscussion: {
+	// Start: I've been pondering about that seedling for some time now.
+	// Solyn1: Plants like them are native to my homeworld. They are rare and difficult to cultivate, but I've never seen one with enough power to influence the flora around it.
+	// Solyn2: It's no wonder Permafrost would keep hold of something of such significance, even if it's unlikely he'd have known what to do with it.
+	// Solyn3: After all, he's not really much of a gardener, is he?
+}
+
+GenesisRevealDiscussion: {
+	// Start: ...You're here.
+	// Solyn1: As we can both plainly see, things are not as they used to be.^ I knew that rift would be bad news.
+	// Solyn2: Maybe... this is why I was brought here.
+	// Solyn3: ... Regardless, it certainly will not be going away any time soon.
+	// Player1: What now, then?
+	// Solyn4: Do you remember that seedling we found in the keep that I asked you to hold on to?
+	// Player2: What about it?
+	// Solyn5: It is weak now, but holds almost limitless magical potential.^ If we can harness this power and turn it to the sky, it should be able to destroy the rift for good.
+	// Solyn6: But in order to achieve this, we will need the help of similar magical artifacts.
+	// Solyn7: We shall call this construction... the **Genesis**.
+	// Solyn8: In the meantime, I will consult whatever magical resources I can find in this pursuit.
+	// Solyn9: I'd recommend you continue your endeavors as usual. You have a knack for encountering the obscure that will definitely come in handy.
+}
+
+CeaselessVoidDiscussionBeforeBattle: {
+	// Start: I'm glad you're here.^ I have something important that we should talk about.
+	// StartingQuestion: What's it about?
+	// Conversation1: I've consulted various old texts originating from the Dungeon, and have learned that a sealed rift contained within may contain something of interest.
+	// Conversation2: This rift is a gateway to... somewhere else.^ I'm not entirely sure where.
+	// Conversation3: Furthermore, the scripts suggest that the ancient inhabitants of the Dungeon stored something extremely powerful near the entrance at the other side of the rift.^ I am certain it will be of value in constructing the Genesis.
+	// ConversationQuestion1: Fair enough. How can I be of help?
+	// Conversation4: From what I can tell, in order to explore beneath the rift, its protective seal will need to be destroyed.
+	// Conversation5: I ask that you draw it out.^ Once the rift is stabilized, I will do my part, join you in the Dungeon, and explore within.
+	// Conversation6: Are you up to the task?
+	// Conversation6ResponseYes: I am. But how do I 'draw it out', exactly?
+	// Conversation6ResponseNo: Maybe later.
+	// ConversationRejection: Understood. I'll be around if you change your mind.
+	// Conversation7: Thank you. I appreciate your help immensely.
+	// Conversation8: I read that there is a certain profaned rune that might, as the text says, 'evoke' the rift.
+	// Conversation9: I am unsure which rune they are referring to, exactly, but seeking out 'profane' artifacts, similar to those deep in the underworld, would likely be a sensible starting point.
+	// Conversation10: Good luck.
+}
+
+CeaselessVoidDiscussionAfterBattle: {
+	// Start: Something up?
+	// Conversation1: I defeated the Ceaseless Void, and a rift appeared.
+	// Conversation2: Wait, **defeated**? ^You had to do combat??
+	// Conversation3: Oh gosh... are you alright?
+	// ConversationResponse1: Yeah, I'm fine.
+	// Conversation4: Alright, thank goodness.^^ I... ^suppose then I'll meet you in the Dungeon. ^I'll be able to find the rift on my own.
+	// Conversation5: Once we're there, I'll step inside and see what's within.
+	// ConversationResponse2: This has all been rather dangerous. Are you sure about this, Solyn?
+	// Conversation6: ... I must do this.
+	// Conversation7: But still, I appreciate your concern. ^It means a lot to me.
+	// Conversation8: Either way, I'll see you there.
+	// Repeat: ...
+}
+
+CeaselessVoidDiscussionBeforeEnteringRift: {
+	// Start: Here it is.
+	// Conversation1: I suppose all there is to do is...step inside.
+	// Confirmation: Are you sure you're ready?
+	// Conversation2: Yeah.^^ I am.
+	// Conversation3: I'll be back shortly.
+}
+
+CeaselessVoidDiscussionAfterEnteringRift: {
+	// Start: I...^^ I ^found it.
+	// Question1: Are you OK??
+	// Conversation1: I... ^don't know. ^But I'm alive, at least.
+	// Question2: What happened?
+	// Conversation2: I entered the rift and immediately got this... overwhelming dread.^ It was like I didn't belong there.
+	// Conversation3: Nothing strange happened until I took the artifact. Once I did, I...
+	// Conversation4: No... ^I don't want to remember it.
+	// Conversation5: Let's... just go. This has been more than enough for one day.
+	// Conversation6: Here's the artifact. It'll be safest in your hands.
+	// Conversation7: I'll... ^be at my campsite. See you around.
+}
+
+AntiseedDiscussion: {
+	// Start: Do you remember when I retrieved that bizarre seed from the rift in the dungeon?
+	// Solyn1: I'm beginning to form some new theories on it.
+	// Solyn2: It's unlike anything I've seen in my studies, both from my homeworld and from this world.^ It's clear it couldn't have originated from anywhere either of us are familiar with.
+	// Solyn3: The Frostblessed Seedling seems to be drawing power from it, implying a connection that I couldn't have foreseen initially.
+	// Solyn4: I will have to consider the implications of the interaction between these flowers. There is a deeper purpose to them that I have not yet discovered.
+}
+
+DraedonBeforeCombatSimulation: {
+	// Start: Good that you're here. ^I want to talk a bit about the Genesis again.
+	// Question1: Are you sure it isn't ready yet?
+	// Conversation1: I don't think it is. ^But it's close. ^We just need one last artifact for it to realize its full potential.
+	// Conversation2: I've done more research on my own, and I believe there is someone out there that may have what we need.
+	// Question2: Who, exactly?
+	// Conversation3: A renowned scientist named Draedon. Have you heard of him before?
+	// Question3: I have! I briefly contacted him before with a special computer.
+	// Conversation4: Aha! That's good.
+	// Conversation5: Let's go to that computer then, and ask him together. ^I'll follow your lead.
+}
+
+GenesisCompletion: {
+	// Start: Is something up?
+	// Player1: I planted the last seed near the Genesis, and it began to sprout.
+	// Solyn1: Wonderful!^ That means our hard work has finally paid off!
+	// Solyn2: Take me to it.^ I'll follow your lead.
+}
+
+AvatarFightLeadUp: {
+	// Solyn1: Here it is! It looks marvelous!
+	// Solyn2: It's been a long and difficult journey but we've really achieved something great.
+	// Solyn3: At last, we can see the fruits of our labors.
+	// Solyn4: Now, let's activate it.
+}
+
+PostNamelessDiscussion: {
+	// Apology1: It's been quite some time since we last spoke, old friend.^^ I'm glad that you too were allowed into this place, and managed to pass your own test.
+	// Apology2: I believe I owe you an apology.
+	// Apology3: Our time together was incredible, but I must confess that my intentions were never wholly pure.
+	// Apology4: I at first saw you and the Dark One as a means to an end.^ Another chance to end up here.^ A chance at being a heroine worthy of the respect of the Deity's favor.
+	// Apology5: I was unwise and brash. It is clear to me now why I was initially rejected.
+	// Apology6: But... I suppose in the end I received my wish, at the cost of everything else.
+	// ApologyResponse: I have a couple of questions.
+	// QuestionsStart: ...?
+	// HowDidYouEndUpHereQuestion: How did you end up here?
+	// HowDidYouEndUpHere1: I'm...^ not entirely sure.
+	// HowDidYouEndUpHere2: All I remember is being enveloped in static, and waking up here. The Deity revealed themself in front of me in all of their splendor, without a word of response to my many questions.
+	// HowDidYouEndUpHere3: Maybe my reason for being here is pity. Maybe from their perspective I had redeemed myself and earned it.
+	// HowDidYouEndUpHere4: It's possible we'll never know. They don't seem much for conversation.
+	// HowDidYouEndUpHere5: Either way, I'm eternally grateful. This place is truly special.
+	// WhyDidYouSaveMeQuestion: Why did you save me?
+	// WhyDidYouSaveMe1: I knew in that moment that it was too late. My magic reserves wouldn't have been enough to save both of us.
+	// WhyDidYouSaveMe2: One of us was going to die.
+	// WhyDidYouSaveMe3: Your fate was clearly important. I felt that your life would be far more pertinent to preserve than mine.
+	// WhyDidYouSaveMe4: And besides, I wouldn't have been able to live with myself if I'd known that my reckless meddling had gotten you killed.
+	// WhyDidYouSaveMe5: Looking back, it was one of the few choices I made that I can confidently say was correct.
+	// WhatNowQuestion: What now?
+	// WhatNow1: Like I said, my time among the living is done.
+	// WhatNow2: I imagine my spirit will linger here for a very long time.
+	// WhatNow3: As for you? I don't know. You're not bound to this garden. You are still alive.
+	// WhatNow4: You're free now to do what you wish, having accomplished feats unmatched.
+	// WhatNow5: I'm sure you'll go on to do great things.
+	// DeityQuestion: What do you know about the deity?
+	// Deity1: Not much. I suspect there are certain things about them that neither of us will ever know.
+	// Deity2: But I do know that they are a being of benevolence and warmth. A creator of all things in our world.
+	// Deity3: On rare occasions, I see them tending to this wonderful garden. It is clear to me that it was made with an abundance of love and care.
+	// TreeQuestion: Want to sit beneath the tree together and take in the atmosphere?
+	// Tree1: ...
+	// Tree2: Of course I would.
+}
+
+SolynErrorFallback.ErrorMessage1: 在加载对话的时候发生了一些未知错误！
+// TripDialogue1: Haha, silly me!
+// TripDialogue2: Whoops!
+// TripDialogue3: Haha, my mistake!

@@ -1,0 +1,86 @@
+NoxusEggCutscene.DisplayName: ？？？
+
+AvatarRift: {
+	DisplayName: ？？？
+	DisplayNameSingular: ？？？
+
+	BossChecklistIntegration: {
+		SpawnInfo: 使用[i:NoxusBoss/Genesis]
+		DespawnMessage: "[c/7D5CC4:隙间在转瞬之间消失了。]"
+	}
+}
+
+AvatarOfEmptiness: {
+	DisplayName: 虚无化身，诺克萨斯
+	DisplayNameSingular: 虚无化身，诺克萨斯
+
+	BossChecklistIntegration: {
+		SpawnInfo: 使用[i:NoxusBoss/Genesis]
+		DespawnMessage: "[c/7D5CC4:暗神的怪诞形体在转瞬之间消失了。]"
+	}
+
+	InfernumCompatibility.Title: 臻世末星。
+	ParadiseReclaimedText: 复乐园
+}
+
+NamelessDeityBoss: {
+	DisplayName: 无名光神
+	DisplayNameSingular: 无名光神
+	SillyDeathCountSuffix: ，无伤人的拷打者
+	// TestOfResolveName: ENDLESS DEITY
+
+	BossChecklistIntegration: {
+		SpawnInfo: 在[i:CalamityMod/Terminus]的眼睛睁开后，使用它。
+		DespawnMessage: "[c/FF463D:你未能通过试炼。]"
+	}
+
+	InfernumCompatibility.Title: ??????????????????????????????????????????????????
+}
+
+DismalSeeker.DisplayName: 阴郁索求者
+Fogwood.DisplayName: 雾中木
+Mirrorwalker.DisplayName: 镜像行者
+DarkHarbinger.DisplayName: 黑暗先驱
+Frightweaver.DisplayName: 恐惧编织者
+# These names do not have to be translated, since when displayed ingame they are drawn in a divine language anyway via a special font.
+Aelithrysuwl.DisplayName: Aelithrysuwl
+Vivajuyfylae.DisplayName: Vivajuyfylae
+
+Solyn: {
+	// DisplayName: Solyn
+
+	TownNPCMood: {
+		// Content: Sorry translators, ignore this. These are not used anywhere but TML requires them.
+		// NoHome: Sorry translators, ignore this. These are not used anywhere but TML requires them.
+		// FarFromHome: Sorry translators, ignore this. These are not used anywhere but TML requires them.
+		// LoveSpace: Sorry translators, ignore this. These are not used anywhere but TML requires them.
+		// DislikeCrowded: Sorry translators, ignore this. These are not used anywhere but TML requires them.
+		// HateCrowded: Sorry translators, ignore this. These are not used anywhere but TML requires them.
+		// LikeNPC_Princess: Sorry translators, ignore this. These are not used anywhere but TML requires them.
+		// Princess_LovesNPC: Sorry translators, ignore this. These are not used anywhere but TML requires them.
+	}
+}
+
+MarsBody: {
+	// DisplayName: XG-07 Mars
+
+	BossChecklistIntegration: {
+		// SpawnInfo: Initiate a special quest alongside Solyn and contact Draedon with the Codebreaker.
+		// DespawnMessage: "[c/9BFFFF:Precisely within the margins of my calculations.]"
+	}
+
+	/* InfernumCompatibility.Title:
+		'''
+		Greenhouse Goliath
+		Mars
+		''' */
+}
+
+CeaselessVoidRift: {
+	// DisplayName: ???
+	// MapIconText: Mysterious Rift
+}
+
+// QuestDraedon.DisplayName: Draedon
+// BattleSolyn.DisplayName: Solyn
+// TrappingHolographicForcefield.DisplayName: Projected Forcefield
